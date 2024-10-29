@@ -16,15 +16,15 @@ if not os.path.exists(WORKING_DIR):
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=ollama_model_complete,
-    llm_model_name="gemma:2b",
+    llm_model_name="gemma2:2b",
     llm_model_max_async=4,
     llm_model_max_token_size=32768,
-    llm_model_kwargs={"host": "http://localhost:11434", "options": {"num_ctx": 32768}},
+    llm_model_kwargs={"host": "http://10.0.10.9:11434/", "options": {"num_ctx": 32768}},
     embedding_func=EmbeddingFunc(
         embedding_dim=768,
         max_token_size=8192,
         func=lambda texts: ollama_embedding(
-            texts, embed_model="nomic-embed-text", host="http://localhost:11434"
+            texts, embed_model="nomic-embed-text", host="http://10.0.10.9:11434/"
         ),
     ),
 )
