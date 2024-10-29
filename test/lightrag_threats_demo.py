@@ -33,6 +33,11 @@ rag = LightRAG(
 conn = sqlite3.connect('threats.db')
 cursor = conn.cursor()
 
+# Inspect database tables
+cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
+tables = cursor.fetchall()
+print("Available tables in the database:", tables)
+
 # Read and insert all content
 cursor.execute('SELECT content FROM parsed_content')
 contents = cursor.fetchall()
