@@ -33,16 +33,18 @@ rag = LightRAG(
 conn = sqlite3.connect('threats.db')
 cursor = conn.cursor()
 
-# Read and insert all threat descriptions
-cursor.execute('SELECT description FROM threats')
-threats = cursor.fetchall()
-for threat in threats:
-    rag.insert(threat[0])
+# Read and insert all content
+cursor.execute('SELECT content FROM parsed_content')
+contents = cursor.fetchall()
+for content in contents:
+    if content[0]:  # Check if content is not None/empty
+        rag.insert(content[0])
+        logging.info("Processed and inserted content chunk")
 
 conn.close()
 
 # Example queries using different search modes
-test_query = "What are common network-based attacks?"
+test_query = "What are the main security threats discussed in these documents?"
 
 print("\nNaive Search Results:")
 print(rag.query(test_query, param=QueryParam(mode="naive")))
