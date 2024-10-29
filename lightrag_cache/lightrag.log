@@ -1,0 +1,58 @@
+2024-10-29 00:41:06,458 - lightrag - INFO - Logger initialized for working directory: ./lightrag_cache
+2024-10-29 00:41:06,458 - lightrag - DEBUG - LightRAG init with param:
+  working_dir = ./lightrag_cache,
+  chunk_token_size = 1200,
+  chunk_overlap_token_size = 100,
+  tiktoken_model_name = gpt-4o-mini,
+  entity_extract_max_gleaning = 1,
+  entity_summary_to_max_tokens = 500,
+  node_embedding_algorithm = node2vec,
+  node2vec_params = {'dimensions': 1536, 'num_walks': 10, 'walk_length': 40, 'window_size': 2, 'iterations': 3, 'random_seed': 3},
+  embedding_func = {'embedding_dim': 768, 'max_token_size': 8192, 'func': <function <lambda> at 0x0000023F3E4E0540>},
+  embedding_batch_num = 32,
+  embedding_func_max_async = 16,
+  llm_model_func = <function ollama_model_complete at 0x0000023F4DA0AF20>,
+  llm_model_name = gemma:2b,
+  llm_model_max_token_size = 32768,
+  llm_model_max_async = 4,
+  llm_model_kwargs = {'host': 'http://localhost:11434', 'options': {'num_ctx': 32768}},
+  key_string_value_json_storage_cls = <class 'lightrag.storage.JsonKVStorage'>,
+  vector_db_storage_cls = <class 'lightrag.storage.NanoVectorDBStorage'>,
+  vector_db_storage_cls_kwargs = {},
+  graph_storage_cls = <class 'lightrag.storage.NetworkXStorage'>,
+  enable_llm_cache = True,
+  addon_params = {},
+  convert_response_to_json_func = <function convert_response_to_json at 0x0000023F4DA03A60>
+
+2024-10-29 00:41:06,458 - lightrag - INFO - Load KV full_docs with 0 data
+2024-10-29 00:41:06,459 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-10-29 00:41:06,459 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-10-29 00:43:45,003 - lightrag - INFO - Logger initialized for working directory: ./lightrag_cache
+2024-10-29 00:43:45,003 - lightrag - DEBUG - LightRAG init with param:
+  working_dir = ./lightrag_cache,
+  chunk_token_size = 1200,
+  chunk_overlap_token_size = 100,
+  tiktoken_model_name = gpt-4o-mini,
+  entity_extract_max_gleaning = 1,
+  entity_summary_to_max_tokens = 500,
+  node_embedding_algorithm = node2vec,
+  node2vec_params = {'dimensions': 1536, 'num_walks': 10, 'walk_length': 40, 'window_size': 2, 'iterations': 3, 'random_seed': 3},
+  embedding_func = {'embedding_dim': 768, 'max_token_size': 8192, 'func': <function <lambda> at 0x000001D08EC00540>},
+  embedding_batch_num = 32,
+  embedding_func_max_async = 16,
+  llm_model_func = <function ollama_model_complete at 0x000001D09E18EC00>,
+  llm_model_name = gemma:2b,
+  llm_model_max_token_size = 32768,
+  llm_model_max_async = 4,
+  llm_model_kwargs = {'host': 'http://localhost:11434', 'options': {'num_ctx': 32768}},
+  key_string_value_json_storage_cls = <class 'lightrag.storage.JsonKVStorage'>,
+  vector_db_storage_cls = <class 'lightrag.storage.NanoVectorDBStorage'>,
+  vector_db_storage_cls_kwargs = {},
+  graph_storage_cls = <class 'lightrag.storage.NetworkXStorage'>,
+  enable_llm_cache = True,
+  addon_params = {},
+  convert_response_to_json_func = <function convert_response_to_json at 0x000001D09E187600>
+
+2024-10-29 00:43:45,004 - lightrag - INFO - Load KV full_docs with 0 data
+2024-10-29 00:43:45,004 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-10-29 00:43:45,004 - lightrag - INFO - Load KV llm_response_cache with 0 data

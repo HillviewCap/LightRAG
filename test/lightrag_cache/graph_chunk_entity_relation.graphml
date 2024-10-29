@@ -1,0 +1,1599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;THN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"THN is an organization providing cybersecurity resources through their newsletter and other media."&lt;SEP&gt;"The Hacker News (THN) is a well-known organization focusing on cybersecurity news and content."&lt;SEP&gt;"THN refers to The Hacker News, a publishing company specializing in tech information."&lt;SEP&gt;"The Hacker News, an organization specializing in tech information, is mentioned"&lt;SEP&gt;"The Hacker News is a website publishing cybersecurity news and insights."&lt;SEP&gt;"This is a company name associated with publication"&lt;SEP&gt;"The Hacker News is a company publishing cybersecurity news."&lt;SEP&gt;"THN stands for The Hacker News. This text mentions the publication's existence, emphasizing its role in providing information on cyber security"&lt;SEP&gt;"THN stands for The Hacker News. This text mentions the publication's existence, emphasizing its role in providing information on cyber security."&lt;SEP&gt;"The Hacker News is a cybersecurity publication that provides news, resources, and insights to the industry."&lt;SEP&gt;"THN refers to The Hacker News, a publishing company specializing in tech information."&lt;SEP&gt;"The Hacker News, an organization specializing in tech information, is mentioned"&lt;SEP&gt;"This is a company name associated with publication"&lt;SEP&gt;"The Hacker News is a company publishing cybersecurity news."&lt;SEP&gt;"The Hacker News is a cybersecurity publication that provides news, resources, and insights to the industry."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-adc0de6c4f0ee0a55604d8a023d252c2&lt;SEP&gt;chunk-04f6f5d4a4f46d887dc39e9cb065fc81&lt;SEP&gt;chunk-d59bc49b6221299373ddb569ceac9809&lt;SEP&gt;chunk-53ca994d686ec35c9e02e3e75588c910&lt;SEP&gt;chunk-4d8b82da45dbf44d00be20d67ecefd03&lt;SEP&gt;chunk-ae22a7a5c30bd0ab03a6673a6258e9cb</data>
+    </node>
+    <node id="&quot;CYBER INSIGHTS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A newsletter about cybersecurity."&lt;SEP&gt;"A newsletter about cybersecurity."&lt;SEP&gt;"Cyber Insights is a cybersecurity organization providing expert insights and resources."&lt;SEP&gt;"Cyber Insights is a service provided by THN, focusing on the cybersecurity landscape."&lt;SEP&gt;"THN provides 'Cyber Insights,' a service offering expert-curated articles, videos, and other resources for professionals in the field. It provides insights into the latest developments and trends in cybersecurity"&lt;SEP&gt;"Newsletter providing cybersecurity insights and updates."&lt;SEP&gt;"Newsletter providing cybersecurity insights and updates."&lt;SEP&gt;"Cyber Insights is a cybersecurity organization providing expert insights and resources."</data>
+      <data key="d2">chunk-adc0de6c4f0ee0a55604d8a023d252c2&lt;SEP&gt;chunk-4562ef12f7c8d2a1547c5b1d487ceb48&lt;SEP&gt;chunk-4d8b82da45dbf44d00be20d67ecefd03&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34</data>
+    </node>
+    <node id="&quot;CERTIFICATIONS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A resource for gaining cybersecurity certifications."&lt;SEP&gt;"A resource for gaining cybersecurity certifications."&lt;SEP&gt;"Certifications are offered as part of the cybersecurity resources provided by THN."&lt;SEP&gt;"THN offers certifications as part of its broader cybersecurity resources, aiming to equip professionals in the field with industry standards and qualifications."&lt;SEP&gt;"Certifications refer to the ability for individuals or organizations to prove their competence in specific fields."&lt;SEP&gt;"A set of credentials for cybersecurity expertise."&lt;SEP&gt;"A set of credentials for cybersecurity expertise."</data>
+      <data key="d2">chunk-839eab8fdbc316ea2a71b5a97a42f35f&lt;SEP&gt;chunk-adc0de6c4f0ee0a55604d8a023d252c2&lt;SEP&gt;chunk-4562ef12f7c8d2a1547c5b1d487ceb48&lt;SEP&gt;chunk-4d8b82da45dbf44d00be20d67ecefd03</data>
+    </node>
+    <node id="&quot;THE HACKER NEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A news organization offering free expert insights and resources for industry leaders."&lt;SEP&gt;"A news organization providing free expert insights and resources for industry leaders."&lt;SEP&gt;"A news platform focusing on cybersecurity."&lt;SEP&gt;"A trusted cybersecurity news platform that publishes recent news and insights about cloud security."&gt;&lt;SEP&gt;"The Hacker News is a website that provides news and resources for the cybersecurity community."&lt;SEP&gt;The **Hacker News** (also known as THN) is an online media company that specializes in providing news, analysis, and commentary on the ever-evolving landscape of cybersecurity.  It offers insights and resources for industry leaders focusing on topics like API and bot attacks, cyber attacks, and related vulnerabilities. They publish content about hacking and technology through their website, which hosts a platform for tech news and analysis. THN aims to be a trusted source for cybersecurity news and information within the community, providing updates on the latest developments in the field. 
+&lt;SEP&gt;"News Website for Cybersecurity"&lt;SEP&gt;"The Hacker News website, a platform for tech news and analysis, hosts the content."&lt;SEP&gt;"The Hacker News, an online platform for tech news, hosts the text provided."&lt;SEP&gt;"The Hacker News is a company that publishes news and content about technology."&lt;SEP&gt;"The Hacker News is a cybersecurity publication that provides news, resources, and insights to the industry."&lt;SEP&gt;"The Hacker News is a cybersecurity news website, providing updates on cyber attacks and vulnerabilities."&lt;SEP&gt;"A news organization that focuses on cybersecurity."&lt;SEP&gt;"The Hacker News is an online platform for news about hacking and cybersecurity."</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac&lt;SEP&gt;chunk-39adb7ace0f0bbf87de215f6fd0c42da&lt;SEP&gt;chunk-5073a56f6acdcea37651ed2bb9133dc2&lt;SEP&gt;chunk-4d8b82da45dbf44d00be20d67ecefd03&lt;SEP&gt;chunk-8ef32bc83d32977b3a9c4a34d2ba4100&lt;SEP&gt;chunk-26b53b82fdb07b6842d8b56e1f3376ce&lt;SEP&gt;chunk-f754867c5285719ac127d8395ec507fb&lt;SEP&gt;chunk-bef17a73426c13718dabba8e82e316b1&lt;SEP&gt;chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3&lt;SEP&gt;chunk-df8497a604df3f639b6e8a3bd39af867&lt;SEP&gt;chunk-04f6f5d4a4f46d887dc39e9cb065fc81&lt;SEP&gt;chunk-d59bc49b6221299373ddb569ceac9809&lt;SEP&gt;chunk-fb893c68bd2d997c7bb374c12d4af47c&lt;SEP&gt;chunk-53ca994d686ec35c9e02e3e75588c910&lt;SEP&gt;chunk-08b592cdcabd3160930232cd98167e41&lt;SEP&gt;chunk-ae22a7a5c30bd0ab03a6673a6258e9cb&lt;SEP&gt;chunk-839eab8fdbc316ea2a71b5a97a42f35f&lt;SEP&gt;chunk-f4b4a0e4a4bb93603b818be7f9d1e04f&lt;SEP&gt;chunk-b546b1a2980e1e4e575b42cbc9768dca&lt;SEP&gt;chunk-4e58ced9a66dfca8ef6658132ba8894f&lt;SEP&gt;chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-17fba567b2e1f76b049a2450bcc3dd9c&lt;SEP&gt;chunk-adc9e67333532a92bab5237598733e04&lt;SEP&gt;chunk-926636469b4762bd1bf3b3513c4bf042&lt;SEP&gt;chunk-ba0177841ef989b273eaf35e82550c34</data>
+    </node>
+    <node id="&quot;COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This company is described as a source of news about hacking and technology."</data>
+      <data key="d2">chunk-53ca994d686ec35c9e02e3e75588c910</data>
+    </node>
+    <node id="&quot;CATO NETWORKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"An organization providing security expertise and tools to combat cybersecurity threats."</data>
+      <data key="d2">chunk-b546b1a2980e1e4e575b42cbc9768dca</data>
+    </node>
+    <node id="&quot;ETAY MAOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"An expert in security strategy"</data>
+      <data key="d2">chunk-b546b1a2980e1e4e575b42cbc9768dca</data>
+    </node>
+    <node id="&quot;SAM RIVERA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A member of a team working on communicating with an unknown intelligence, demonstrating a mix of awe and anxiety."&lt;SEP&gt;"Sam Rivera is a member of a team working on communicating with an unknown intelligence."&lt;SEP&gt;"The person responsible for exploring communication with the unknown intelligence."&lt;SEP&gt;"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."&lt;SEP&gt;"A member of a team working on communicating with an unknown intelligence, showcasing a mix of awe and anxiety."&lt;SEP&gt;"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."&lt;SEP&gt;"Sam Rivera is a member of a team working on communicating with an unknown intelligence."&lt;SEP&gt;"The person responsible for exploring communication with the unknown intelligence."&lt;SEP&gt;"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."&lt;SEP&gt;"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072&lt;SEP&gt;chunk-20bcf0d690252f40046cacd4546a83a9&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34&lt;SEP&gt;chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3&lt;SEP&gt;chunk-b546b1a2980e1e4e575b42cbc9768dca</data>
+    </node>
+    <node id="&quot;ALEX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex is the leader of a team attempting first contact with an unknown intelligence, acknowledging the significance of their task."&lt;SEP&gt;"Alex is the leader of a team attempting first contact with an unknown intelligence, acknowledging the significance of their task."&lt;SEP&gt;"Leader of the team that might be making the first contact with an unknown intelligence"&lt;SEP&gt;"The leader of the team attempting first contact with the unknown intelligence."</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072&lt;SEP&gt;chunk-b546b1a2980e1e4e575b42cbc9768dca</data>
+    </node>
+    <node id="&quot;AI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A subset of technologies focused on the creation of intelligent systems capable of mimicking human intellect, often through machine learning."&lt;SEP&gt;"Artificial intelligence in cybercrime"&lt;SEP&gt;"Artificial intelligence"&lt;SEP&gt;"Artificial intelligence used to enhance cybersecurity"&lt;SEP&gt;"Artificial intelligence used to enhance cybersecurity"</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3&lt;SEP&gt;chunk-b546b1a2980e1e4e575b42cbc9768dca</data>
+    </node>
+    <node id="&quot;CYBERSECURITY NEWS PLATFORM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A platform providing cybersecurity news and information about cyber attacks."&lt;SEP&gt;"Microsoft is a cybersecurity news platform that provides information about security threats and vulnerabilities."&lt;SEP&gt;"Microsoft is a cybersecurity news platform that provides information about security threats and vulnerabilities."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec&lt;SEP&gt;chunk-b546b1a2980e1e4e575b42cbc9768dca</data>
+    </node>
+    <node id="&quot;GPTS&quot;">
+      <data key="d0">"AI TOOL"</data>
+      <data key="d1">"Generative Pre-trained Transformer (GPT) AI models are being used in various ways by attackers"</data>
+      <data key="d2">chunk-b546b1a2980e1e4e575b42cbc9768dca</data>
+    </node>
+    <node id="&quot;CYBERCRIME&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Criminal activity involving technology, often targeting financial systems."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;DEEPFAKE TECHNOLOGY&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A type of fake media, using AI to create realistic images or videos"</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;BANK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A financial institution handling money and assets."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;HONG KONG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Location where a bank experienced $25 million fraud via deepfake technology."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;FBI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The FBI (Federal Bureau of Investigation) is responsible for investigating federal crimes in the United States."&lt;SEP&gt;"The FBI (Federal Bureau of Investigation) is responsible for investigating federal crimes in the United States."&lt;SEP&gt;"The FBI creates and executes the investigation of Operation Token Mirrors."&lt;SEP&gt;"The FBI is conducting the investigation of Operation Token Mirrors."&lt;SEP&gt;"The FBI launched a cryptocurrency token and a company called NexFundAI to disrupt a fraud operation"&lt;SEP&gt;"The United States' primary investigative agency for crimes against the country"&lt;SEP&gt;"The Federal Bureau of Investigation (FBI) is a law enforcement agency in the US, tasked with investigating federal crimes."&lt;SEP&gt;"The FBI is involved in fighting cybercrime"&lt;SEP&gt;"The FBI launched a cryptocurrency token and a company called NexFundAI to disrupt a fraud operation"&lt;SEP&gt;"The Federal Bureau of Investigation (FBI) is a law enforcement agency in the US, tasked with investigating federal crimes."&lt;SEP&gt;"The FBI is involved in fighting cybercrime"</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec&lt;SEP&gt;chunk-39adb7ace0f0bbf87de215f6fd0c42da&lt;SEP&gt;chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-94076a50ceb930723b29e158b859d42f&lt;SEP&gt;chunk-d9a83997627a724c63865895afc18b17</data>
+    </node>
+    <node id="&quot;CRYPTOCURRENCY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Digital currency that exists online and isn't tied to a central bank or government, like Bitcoin."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;VIDEO CALL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A form of communication using video and audio."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;HUMANITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Human beings as a collective entity that needs protection from AI misuse"</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;AI DEFENDER&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Those who are in charge of safeguarding AI systems against malicious use."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;AI ATTACKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The attacker utilizes AI for illegal activities, such as creating deepfakes and exploiting vulnerabilities."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;SHADOW DATA&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Data that has been hidden or obscured from view to protect it. "&lt;SEP&gt;"This refers to data that exists outside the known data security system, challenging conventional risk management strategies."&lt;SEP&gt;"The concept of shadow data, also known as data leakage or hidden data, is mentioned in relation to cloud vulnerabilities."&lt;SEP&gt;"Shadow data refers to sensitive information that is being stored and potentially leaked by organizations. "&lt;SEP&gt;"The concept of shadow data, also known as data leakage or hidden data, is mentioned in relation to cloud vulnerabilities."&lt;SEP&gt;"Shadow data refers to sensitive information that is being stored and potentially leaked by organizations. "</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-d1a585bec885122ce0e5a170141f4ebe</data>
+    </node>
+    <node id="&quot;CTEM GUIDE&quot;">
+      <data key="d0">"RESOURCE"</data>
+      <data key="d1">"A guide on how to better control your cybersecurity."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </node>
+    <node id="&quot;GITHUB&quot;">
+      <data key="d0">"TECHNOLOGY COMPANY"</data>
+      <data key="d1">"A platform for software development and collaboration."&lt;SEP&gt;"The GitHub platform is used as a staging area for malicious payloads and for communication"&lt;SEP&gt;"GitHub is a platform for software development and hosting repositories"&lt;SEP&gt;"GitHub is a platform used by developers to collaborate on code."&lt;SEP&gt;"GitHub is a platform providing software development and collaboration services that has been used by attackers in phishing attacks."&lt;SEP&gt;"The GitHub platform is used as a staging area for malicious payloads and for communication"&lt;SEP&gt;"GitHub is a platform for software development and hosting repositories"&lt;SEP&gt;"GitHub is a platform used by developers to collaborate on code."</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-531b6ec9daf27b26e55cf2c3c1e2d672&lt;SEP&gt;chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;TELEGRAM&quot;">
+      <data key="d0">"PLATFORM"</data>
+      <data key="d1">"A messaging app that is often used for secure communication"&lt;SEP&gt;"The platform for the Telekopye Telegram toolkit."&lt;SEP&gt;"Telegram is a messaging app that allows users to communicate through secure messages."&lt;SEP&gt;"Telegram is a messaging application used by many organizations and individuals"&lt;SEP&gt;"Telegram is an instant messaging app which has become a common target for malicious actors"&lt;SEP&gt;"The platform for the Telekopye Telegram toolkit."&lt;SEP&gt;"Telegram is a messaging app that allows users to communicate through secure messages."&lt;SEP&gt;"Telegram is a messaging application used by many organizations and individuals"</data>
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-531b6ec9daf27b26e55cf2c3c1e2d672&lt;SEP&gt;chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;CYBERSECURITY&quot;">
+      <data key="d2">chunk-36dcaae155f033d8e417ee28309f5fd5&lt;SEP&gt;chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-39adb7ace0f0bbf87de215f6fd0c42da&lt;SEP&gt;chunk-5073a56f6acdcea37651ed2bb9133dc2&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34&lt;SEP&gt;chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3</data>
+      <data key="d1">"A broad field encompassing the protection of computer systems and networks from unauthorized access, use, disclosure, disruption, modification or destruction."&lt;SEP&gt;"An area of expertise that involves understanding security threats, vulnerabilities, and protecting systems against attacks."&lt;SEP&gt;"Cybersecurity refers to the protection against digital threats"&lt;SEP&gt;"Focuses on protecting against threats and vulnerabilities."&lt;SEP&gt;"Security measures related to the digital realm are discussed."&lt;SEP&gt;"The need to protect humanity from AI misuse and ensure a safe future for technology.")&lt;SEP&gt;"The broad field of protecting systems, data, networks, and infrastructure from threats and attacks."&lt;SEP&gt;"The general field of securing digital infrastructure, networks, and data."&lt;SEP&gt;"The document discusses cybersecurity topics and the vulnerabilities that can lead to attacks."&lt;SEP&gt;"Focuses on safeguarding computer systems against attacks and threats."&lt;SEP&gt;"Security measures related to the digital realm are discussed."&lt;SEP&gt;"Focuses on protecting against threats and vulnerabilities."&lt;SEP&gt;"The broad field of protecting systems, data, networks, and infrastructure from threats and attacks."&lt;SEP&gt;"The general field of securing digital infrastructure, networks, and data."&lt;SEP&gt;"The document discusses cybersecurity topics and the vulnerabilities that can lead to attacks."&lt;SEP&gt;"Cybersecurity refers to the protection against digital threats"&lt;SEP&gt;"An area of expertise that involves understanding security threats, vulnerabilities, and protecting systems against attacks."&lt;SEP&gt;"Focuses on safeguarding computer systems against attacks and threats."</data>
+      <data key="d0">"CONCEPT"</data>
+    </node>
+    <node id="&quot;NORTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Korea is the country where ScarCruft's activities are being attributed."&lt;SEP&gt;"The country where ScarCruft's hacking activities are believed to originate from"</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;SCARCRUFT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A North Korean hacking group involved in cyberattacks"&lt;SEP&gt;"A North Korean hacking group that exploits vulnerabilities and delivers malware"</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;ROKRAT&quot;">
+      <data key="d0">"MALWARE"</data>
+      <data key="d1">"A name given to a variety of malicious software used by ScarCruft for attacks like data exfiltration, remote access, and system control."&lt;SEP&gt;"The name of a malicious software program used by Scarcruft for various attacks like data exfiltration, remote access, and system control."</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;MICROSOFT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A company accused of giving absurd names to Chinese-linked cyber attacks"&lt;SEP&gt;"A company accused of giving absurd names to Chinese-linked cyber attacks"&lt;SEP&gt;"Microsoft issued a patch update for August 2024, addressing the zero-day exploit."&lt;SEP&gt;"Released a security patch for August 2024, addressing the zero-day exploit."&lt;SEP&gt;"Microsoft is a software company, involved in cybersecurity. "&lt;SEP&gt;"Microsoft's Windows 11 security baseline includes new protections to improve security"&lt;SEP&gt;"Microsoft releases security updates to fix a total of 118 vulnerabilities across its software portfolio."&lt;SEP&gt;"Microsoft is a cybersecurity company that has released warnings about cyber attacks."&lt;SEP&gt;"Microsoft is a software company, involved in cybersecurity. "&lt;SEP&gt;"Microsoft's Windows 11 security baseline includes new protections to improve security"&lt;SEP&gt;"Microsoft is a cybersecurity company that has released warnings about cyber attacks."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec&lt;SEP&gt;chunk-f993ef1e1e7216e2cbd7f5471a57ed0a&lt;SEP&gt;chunk-34ef247ad7c0f3d127a044e7a36bf956&lt;SEP&gt;chunk-94076a50ceb930723b29e158b859d42f&lt;SEP&gt;chunk-aba8a94e52306db9a1e9d1ea36b6adbe&lt;SEP&gt;chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;AHNLAB SECURITY INTELLIGENCE CENTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Responsible for discovering and reporting the vulnerability that is being exploited."&lt;SEP&gt;"South Korean cybersecurity firm"</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;NATIONAL CYBER SECURITY CENTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"South Korean cybersecurity organization responsible for tracking and mitigating attacks from ScarCruft"&lt;SEP&gt;"South Korean cybersecurity organization tracking ScarCruft's activities."</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;OPERATION CODE ON TOAST&quot;">
+      <data key="d0">"CYBERSECURITY ATTACK"</data>
+      <data key="d1">"Name given by ASEC (AhnLab) for the exploited campaign."&lt;SEP&gt;"Name used by ASEC for a specific cyberattack strategy"</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;INTERNET EXPLORER&quot;">
+      <data key="d0">"BROWSER"</data>
+      <data key="d1">"Vulnerability in this browser is being exploited by ScarCruft to deliver malware."</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;CVE-2024-38178&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"A memory corruption flaw in Windows script engine that enables ScarCruft to deliver malware."</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;FIREFOX&quot;">
+      <data key="d0">"SOFTWARE"</data>
+      <data key="d1">"A web browser developed by Mozilla that has been affected by security flaws."&lt;SEP&gt;"A web browser developed by Mozilla that has been affected by security flaws."&lt;SEP&gt;"Being targeted by exploit related to a security flaw in its rendering engine. "&lt;SEP&gt;"Mozilla Firefox is a browser."&lt;SEP&gt;"Mozilla Firefox is an open-source web browser that has been mentioned for being under attack"&lt;SEP&gt;"Mozilla's browser."&lt;SEP&gt;"Firefox is a popular web browser"&lt;SEP&gt;"A web browser used for browsing the internet"&lt;SEP&gt;"Mozilla Firefox is a browser."&lt;SEP&gt;"Mozilla Firefox is an open-source web browser that has been mentioned for being under attack"&lt;SEP&gt;"Firefox is a popular web browser"&lt;SEP&gt;"A web browser used for browsing the internet"</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac&lt;SEP&gt;chunk-39adb7ace0f0bbf87de215f6fd0c42da&lt;SEP&gt;chunk-f993ef1e1e7216e2cbd7f5471a57ed0a&lt;SEP&gt;chunk-bbdc335898a78be0e8361f5490bc2e5c&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3&lt;SEP&gt;chunk-bdac24cdc900192e7d3a9b5fdcbb1933</data>
+    </node>
+    <node id="&quot;GOOGLE CLOUD, PCLOUD, AND YANDEX CLOUD&quot;">
+      <data key="d0">"CLOUD SERVICES"</data>
+      <data key="d1">"Used as command-and-control servers for the malware"</data>
+      <data key="d2">chunk-f993ef1e1e7216e2cbd7f5471a57ed0a</data>
+    </node>
+    <node id="&quot;GLOBAL-E&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A company offering services related to digital payments, including CISO expertise in cybersecurity. "&lt;SEP&gt;"A company offering services related to digital payments, including CISO expertise in cybersecurity. "&lt;SEP&gt;"An organization focusing on cloud security and potentially working with cybersecurity best practices"&lt;SEP&gt;"Global-e is a company known for providing e-commerce solutions to businesses."&lt;SEP&gt;"Global-e is mentioned as an organization that used DSPM to eliminate shadow data risks."&lt;SEP&gt;"Global-e is a company that provides ecommerce solutions for various businesses."&lt;SEP&gt;"Global-e is a company that specializes in eCommerce solutions for businesses"&lt;SEP&gt;"Company specializing in ecommerce service that uses DSPM (Data Privacy &amp; Security Management) to protect against data breaches and ensure compliance."&lt;SEP&gt;"Global-e is mentioned as an organization that used DSPM to eliminate shadow data risks."&lt;SEP&gt;"Global-e is a company that provides ecommerce solutions for various businesses."&lt;SEP&gt;"Global-e is a company that specializes in eCommerce solutions for businesses"&lt;SEP&gt;"An organization focusing on cloud security and potentially working with cybersecurity best practices"&lt;SEP&gt;"Company specializing in ecommerce service that uses DSPM (Data Privacy &amp; Security Management) to protect against data breaches and ensure compliance."</data>
+      <data key="d2">chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-20bcf0d690252f40046cacd4546a83a9&lt;SEP&gt;chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-d1a585bec885122ce0e5a170141f4ebe&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;DSPM TACTICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A tactic or methodology used by Global-e for risk mitigation and protection of sensitive information. "</data>
+      <data key="d2">chunk-d1a585bec885122ce0e5a170141f4ebe</data>
+    </node>
+    <node id="&quot;CISO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The CISO's role is mentioned, suggesting expertise in cybersecurity."</data>
+      <data key="d2">chunk-d1a585bec885122ce0e5a170141f4ebe</data>
+    </node>
+    <node id="&quot;ASTAROTH BANKING MALWARE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Astaroth is a banking malware that uses obfuscated JavaScript to bypass security measures."</data>
+      <data key="d2">chunk-703751ab12728d94c7f15de381852c4e</data>
+    </node>
+    <node id="&quot;CONTACT US&quot;">
+      <data key="d0">"FUNCTION"</data>
+      <data key="d1">"A Contact Us section is a page where users can submit queries or feedback to an organization."&lt;SEP&gt;"A Contact Us section is a page where users can submit queries or feedback to an organization."&lt;SEP&gt;"An action within the organization, implying information or contact seeking."</data>
+      <data key="d2">chunk-fb893c68bd2d997c7bb374c12d4af47c&lt;SEP&gt;chunk-df8497a604df3f639b6e8a3bd39af867</data>
+    </node>
+    <node id="&quot;ANDROID&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Android is a mobile operating system mentioned as related to the Deals Store."</data>
+      <data key="d2">chunk-ba0177841ef989b273eaf35e82550c34</data>
+    </node>
+    <node id="&quot;CISA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CISA stands for Cybersecurity and Infrastructure Security Agency, a U.S government agency dedicated to cybersecurity."&lt;SEP&gt;"CISA stands for Cybersecurity and Infrastructure Security Agency, a U.S government agency dedicated to cybersecurity."&lt;SEP&gt;"CISA, the Cybersecurity and Infrastructure Security Agency, has published a list of known exploited vulnerabilities."&lt;SEP&gt;"The Cybersecurity and Infrastructure Security Agency (CISA) is a federal agency responsible for cybersecurity in the United States."&lt;SEP&gt;"The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is a government agency responsible for cybersecurity."&lt;SEP&gt;"The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is responsible for issuing advisories on cyber security vulnerabilities."&lt;SEP&gt;"The Cybersecurity and Infrastructure Security Agency (CISA) is a governmental organization that warns of risks in this domain."&lt;SEP&gt;"The Cybersecurity and Infrastructure Security Agency (CISA) has published a bulletin on known exploited vulnerabilities that contains details about the Ivanti CSA vulnerabilities."&lt;SEP&gt;"The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is a government agency responsible for cybersecurity."&lt;SEP&gt;"The Cybersecurity and Infrastructure Security Agency (CISA) is a federal agency responsible for cybersecurity in the United States."&lt;SEP&gt;"The Cybersecurity and Infrastructure Security Agency (CISA) has published a bulletin on known exploited vulnerabilities that contains details about the Ivanti CSA vulnerabilities."</data>
+      <data key="d2">chunk-39adb7ace0f0bbf87de215f6fd0c42da&lt;SEP&gt;chunk-17fba567b2e1f76b049a2450bcc3dd9c&lt;SEP&gt;chunk-776e4487c810e7b86fb66db8af20d941&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-d8dd0d274f5f6c0beae20e25d7e971ca&lt;SEP&gt;chunk-288b154c842ffbb4b9a9b64f656e97c0&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;ALL RIGHTS RESERVED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"An organization that holds rights and protects them in the year 2024."</data>
+      <data key="d2">chunk-429daa78f46069695e1d905bc0922f37</data>
+    </node>
+    <node id="&quot;2024&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Year of reference used in text"</data>
+      <data key="d2">chunk-429daa78f46069695e1d905bc0922f37</data>
+    </node>
+    <node id="&quot;ORGANIZATION&quot;">
+      <data key="d2">chunk-429daa78f46069695e1d905bc0922f37</data>
+      <data key="d1">"An organization that holds rights and protects them.")&lt;| "ownership, protection"&lt;SEP&gt;"This text states a right holder, implying an organizational structure.")&lt;| "ownership, protection"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;THREATLABZ&quot;">
+      <data key="d0">"RESEARCH FIRM"</data>
+      <data key="d1">" A research firm that produces reports on cyber threats and vulnerabilities."&lt;SEP&gt;" A research firm that produces reports on cyber threats and vulnerabilities."&lt;SEP&gt;"A cybersecurity research company specializing in ransomware."&lt;SEP&gt;"ThreatLabz conducts research on cybersecurity threats and publishes reports. "&lt;SEP&gt;"ThreatLabz is a cybersecurity company providing threat intelligence and reports on ransomware attacks."&lt;SEP&gt;"ThreatLabz is a cybersecurity organization releasing a ransomware report"&lt;SEP&gt;"ThreatLabz is a cybersecurity research company."&lt;SEP&gt;"ThreatLabz is a cybersecurity company specializing in reports on ransomware and other threats. "&lt;SEP&gt;"ThreatLabz is a cybersecurity company that publishes reports and research on ransomware and other threats."&lt;SEP&gt;"ThreatLabz is an organization that provides information about ransomware attacks, publishing reports on their evolution and impact."&lt;SEP&gt;"ThreatLabz is a cybersecurity company providing threat intelligence and reports on ransomware attacks."&lt;SEP&gt;"ThreatLabz is a cybersecurity organization releasing a ransomware report"&lt;SEP&gt;"ThreatLabz is a cybersecurity research company."&lt;SEP&gt;"ThreatLabz conducts research on cybersecurity threats and publishes reports. "&lt;SEP&gt;"ThreatLabz is a cybersecurity company specializing in reports on ransomware and other threats. "&lt;SEP&gt;"ThreatLabz is a cybersecurity company that publishes reports and research on ransomware and other threats."&lt;SEP&gt;"A cybersecurity research company specializing in ransomware."&lt;SEP&gt;"ThreatLabz is an organization that provides information about ransomware attacks, publishing reports on their evolution and impact."</data>
+      <data key="d2">chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-04f6f5d4a4f46d887dc39e9cb065fc81&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072&lt;SEP&gt;chunk-20bcf0d690252f40046cacd4546a83a9&lt;SEP&gt;chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34&lt;SEP&gt;chunk-26b53b82fdb07b6842d8b56e1f3376ce</data>
+    </node>
+    <node id="&quot;RANSOMWARE&quot;">
+      <data key="d0">"CYBER THREAT"</data>
+      <data key="d1">"A ransomware attack has occurred. The text refers to a record-breaking payout from the largest ransomware attack in history."&lt;SEP&gt;"A ransomware attack was reported in the text"&lt;SEP&gt;"The text mentions a ransomware attack with a large payout."&lt;SEP&gt;"A type of cyber attack focused on encryption of data to force payments."&lt;SEP&gt;"An attack on computer systems that involves encrypting data or control systems to demand a ransom for its release. "&lt;SEP&gt;"An attack on computer systems, often targeting files or systems' control.)"&lt;SEP&gt;"Ransomware is mentioned as a disruptive event affecting data and recovery processes."&lt;SEP&gt;"The text highlights that ransomware is a disruptive technology threat."&lt;SEP&gt;"A type of cyber attack, where attackers encrypt files and demand payment for their release."&lt;SEP&gt;"An ongoing cyber threat that involves encrypting data and demanding payment for its release."&lt;SEP&gt;"A type of malware that encrypts files and demands payment to regain access."&lt;SEP&gt;"A ransomware attack was reported in the text"&lt;SEP&gt;"The text mentions a ransomware attack with a large payout."&lt;SEP&gt;"A type of cyber attack focused on encryption of data to force payments."&lt;SEP&gt;"An attack on computer systems that involves encrypting data or control systems to demand a ransom for its release. "&lt;SEP&gt;"An attack on computer systems, often targeting files or systems' control.)"&lt;SEP&gt;"Ransomware is mentioned as a disruptive event affecting data and recovery processes."&lt;SEP&gt;"The text highlights that ransomware is a disruptive technology threat."&lt;SEP&gt;"A type of cyber attack, where attackers encrypt files and demand payment for their release."&lt;SEP&gt;"An ongoing cyber threat that involves encrypting data and demanding payment for its release."&lt;SEP&gt;"A type of malware that encrypts files and demands payment to regain access."</data>
+      <data key="d2">chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-04f6f5d4a4f46d887dc39e9cb065fc81&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-bef17a73426c13718dabba8e82e316b1&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34&lt;SEP&gt;chunk-08b592cdcabd3160930232cd98167e41&lt;SEP&gt;chunk-26b53b82fdb07b6842d8b56e1f3376ce&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;SOFTWARE SUPPLY CHAIN&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The concept of Software Supply Chain refers to the flow of software code from its developers to users. It is a critical area vulnerable to cyberattacks."</data>
+      <data key="d2">chunk-26b53b82fdb07b6842d8b56e1f3376ce</data>
+    </node>
+    <node id="&quot;MICROSOFT 365&quot;">
+      <data key="d0">"CLOUD PLATFORM"</data>
+      <data key="d1">"A change in the backup system of Microsoft 365, impacting ransomware recovery"&lt;SEP&gt;"A cloud-based productivity platform providing email, file storage, and collaboration services."&lt;SEP&gt;"Microsoft's 365 service is a crucial part of the cybersecurity landscape."&lt;SEP&gt;"Microsoft 365 is a software product that includes backup services for cloud environments."&lt;SEP&gt;"Microsoft 365 is an organization providing cloud computing solutions for businesses and organizations."&lt;SEP&gt;"Microsoft 365 is an organization that provides cloud computing solutions for businesses and organizations."&lt;SEP&gt;"A specific product or service associated with Microsoft."&lt;SEP&gt;"Microsoft 365 is a product or service associated with the company Microsoft."&lt;SEP&gt;"Microsoft 365 is a platform mentioned in relation to backup and recovery against ransomware attacks."&lt;SEP&gt;"Microsoft 365 is mentioned as a platform involved in backup and recovery against ransomware threats."&lt;SEP&gt;"Microsoft 365 is a suite of cloud-based productivity and collaboration applications."&lt;SEP&gt;"Microsoft's suite of cloud services for business communication, security, and productivity."&lt;SEP&gt;"Microsoft's 365 Backup Game has been Revolutionized by Ransomware Recovery."&lt;SEP&gt;"Microsoft's 365 service is a crucial part of the cybersecurity landscape."&lt;SEP&gt;"A cloud-based productivity platform providing email, file storage, and collaboration services."&lt;SEP&gt;"Microsoft 365 is a software product that includes backup services for cloud environments."&lt;SEP&gt;"A specific product or service associated with Microsoft."&lt;SEP&gt;"Microsoft 365 is a product or service associated with the company Microsoft."&lt;SEP&gt;"Microsoft 365 is a suite of cloud-based productivity and collaboration applications."&lt;SEP&gt;"Microsoft's suite of cloud services for business communication, security, and productivity."</data>
+      <data key="d2">chunk-adc0de6c4f0ee0a55604d8a023d252c2&lt;SEP&gt;chunk-04f6f5d4a4f46d887dc39e9cb065fc81&lt;SEP&gt;chunk-bef17a73426c13718dabba8e82e316b1&lt;SEP&gt;chunk-adc9e67333532a92bab5237598733e04&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34&lt;SEP&gt;chunk-08b592cdcabd3160930232cd98167e41&lt;SEP&gt;chunk-ae22a7a5c30bd0ab03a6673a6258e9cb&lt;SEP&gt;chunk-26b53b82fdb07b6842d8b56e1f3376ce&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;SECURITY OPERATIONS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Security operations are essential to protect systems and data from cyber threats."</data>
+      <data key="d2">chunk-26b53b82fdb07b6842d8b56e1f3376ce</data>
+    </node>
+    <node id="&quot;FASTCASH&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"FASTCash is a malware family used to steal funds. It's designed to manipulate payment switch application servers within banks."</data>
+      <data key="d2">chunk-9d2562ea33adbd093424e8d160fed47c</data>
+    </node>
+    <node id="&quot;NEWS IN YOUR INBOX&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is an event for the newsletter subscription of The Hacker News."</data>
+      <data key="d2">chunk-d59bc49b6221299373ddb569ceac9809</data>
+    </node>
+    <node id="&quot;NDR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NDRs" is a company that develops network detection and response solutions."</data>
+      <data key="d2">chunk-b172ee28e4f01d2993de8e5a460cead3</data>
+    </node>
+    <node id="&quot;ADVANCED IDENTITY ATTACKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A cybersecurity event focused on addressing the issue of advanced identity attacks."&lt;SEP&gt;"A cybersecurity event focused on addressing the issue of advanced identity attacks."&lt;SEP&gt;"A cybersecurity event involving advanced identity attacks."&lt;SEP&gt;"Advanced Identity attacks refer to sophisticated tactics that exploit vulnerabilities in authentication and access control systems."&lt;SEP&gt;"Advanced Identity attacks refer to sophisticated tactics that exploit vulnerabilities in authentication and access control systems."&lt;SEP&gt;"A cybersecurity event involving advanced identity attacks."</data>
+      <data key="d2">chunk-20bcf0d690252f40046cacd4546a83a9&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-b172ee28e4f01d2993de8e5a460cead3</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Country associated with a cyber espionage group"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;U.S. FEDERAL GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A government agency accused of fabricating the Volt Typhoon attack, potentially for malicious purposes."</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;NATIONAL ENGINEERING LABORATORY FOR COMPUTER VIRUS PREVENTION TECHNOLOGY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Research organization responsible for a study on the Volt Typhoon attack"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;CVERC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"China's National Computer Virus Emergency Response Center conducting their own investigation into the alleged false flag operation of Volt Typhoon"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;VOLT TYPHOON&quot;">
+      <data key="d0">"THREAT ACTOR"</data>
+      <data key="d1">"A China-linked cyber espionage group that is accused of being a fabrication by the U.S."</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Country associated with cybersecurity company Sekoia, which published reports about Chinese-linked cyber attacks"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;VERSA DIRECTOR&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A security vulnerability exploited in the context of a Volt Typhoon attack. Used for malicious activities"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;GARAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Location relevant to the U.S. military base"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;GOBRAT&quot;">
+      <data key="d0">"THREAT ACTOR"</data>
+      <data key="d1">" A backdoor used by cyber attackers in the context of Chinese-linked attacks, specifically during a campaign against targets of interest."</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;BULBATURE&quot;">
+      <data key="d0">"THREAT ACTOR"</data>
+      <data key="d1">" An implant associated with malicious activities carried out through an attack on network devices. "</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;CROWDSTRIKE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity company accused of giving absurd names to Chinese-linked cyber attacks"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;MARBLE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">" A toolkit used by the U.S. government to confuse attribution efforts for cyber attacks."</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;CONTROL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">" Refers to the ability to manage or govern, which is challenged by an intelligence that literally writes its own rules."&lt;SEP&gt;" Refers to the ability to manage or govern, which is challenged by an intelligence that literally writes its own rules."&lt;SEP&gt;"The idea of control is challenged by an unknown intelligence that writes its own rules."</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac&lt;SEP&gt;chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;INTERNET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Global network of interconnected computers"</data>
+      <data key="d2">chunk-34ef247ad7c0f3d127a044e7a36bf956</data>
+    </node>
+    <node id="&quot;SHARE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event of sharing information is occurring. The specific details of the event are not known."</data>
+      <data key="d2">chunk-944df113a83b140fe27be7f085f972b8</data>
+    </node>
+    <node id="&quot;INFORMATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The concept of sharing information was implied."</data>
+      <data key="d2">chunk-944df113a83b140fe27be7f085f972b8</data>
+    </node>
+    <node id="&quot;HARFANGLAB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"French cybersecurity company detecting the activity of the Hijack Loader malware attack."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;HIJACK LOADER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A type of malware loader that delivers an information stealer known as Lumma."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;LUMMA&quot;">
+      <data key="d0">"MALWARE"</data>
+      <data key="d1">"A type of data stealing malware."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;DOILOADER&quot;">
+      <data key="d0">"MALWARE"</data>
+      <data key="d1">"A commonly used name for Hijack Loader, other names include IDAT Loader and SHADOWLADDER."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;SONICWALL CAPTURE LABS&quot;">
+      <data key="d0">"RESEARCH ORGANIZATION"</data>
+      <data key="d1">"Researching cyber security threats."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**FIREFOX**&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A web browser software company."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**FBI**&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"An agency focused on criminal investigation and law enforcement in the United States."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**COREWARRIOR**&quot;">
+      <data key="d0">"MALWARE"</data>
+      <data key="d1">"A trojan that attempts to spread rapidly"</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**XWORM**&quot;">
+      <data key="d0">"MALWARE"</data>
+      <data key="d1">"A commodity stealer and loader malware"</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**SONICWALL CAPTURE LABS**&quot;">
+      <data key="d0">"RESEARCH ORGANIZATION"</data>
+      <data key="d1">"Researching cyber security threats."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**NETSKOPE THREAT LABS**&quot;">
+      <data key="d0">"SECURITY RESEARCH ORGANIZATION"</data>
+      <data key="d1">"Security researcher Jan Michael Alcantara at Netskope Threat Labs has studied XWorm's functionality."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**MICROSOFT**&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Software company involved in cybersecurity"</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**CISA**&quot;">
+      <data key="d0">"GOVERNMENT ORGANIZATION"</data>
+      <data key="d1">"Information security agency of the US government. "</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**PALO ALTO NETWORKS**&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A networking and cybersecurity company, known for its intrusion prevention system."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**CISCO**&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Networking and cybersecurity firm"</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**GITHUB**&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Platform for software development. Used as a platform to distribute malware and other code"</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**TELEGRAM**&quot;">
+      <data key="d0">"COMMUNICATION/SOCIAL MEDIA PLATFORM"</data>
+      <data key="d1">"A decentralized communication platform used for secure messaging"</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**ASCII QR CODES**&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A common way to represent information encoded in ASCII characters. Used for a variety of purposes, including phishing."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**OILRIG**&quot;">
+      <data key="d0">"CYBERSECURITY FIRM"</data>
+      <data key="d1">"A cyberattack group specializing in espionage."</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;**LUCR-3**&quot;">
+      <data key="d0">"MALWARE ATTACK TECHNIQUE"</data>
+      <data key="d1">"A tool used by attackers to exploit cloud vulnerabilities"</data>
+      <data key="d2">chunk-aba8a94e52306db9a1e9d1ea36b6adbe</data>
+    </node>
+    <node id="&quot;LUCR-3&quot;">
+      <data key="d0">"CYBER THREAT ACTOR"</data>
+      <data key="d1">"A criminal group known for exploiting cloud vulnerabilities."&lt;SEP&gt;"A type of attacker who exploits cloud vulnerabilities, likely a malicious actor"&lt;SEP&gt;"AI Group suspected of hijacking cloud services"&lt;SEP&gt;"AI Group suspected to be responsible for hijacking cloud services"&lt;SEP&gt;"LUCR-3 is a group that is exploiting cloud vulnerabilities."&lt;SEP&gt;"LUCR-3 is a threat group that exploits cloud vulnerabilities."&lt;SEP&gt;"An organization known for exploiting cloud vulnerabilities and conducting cyberattacks"&lt;SEP&gt;"LUCR-3 is a group known for exploiting cloud vulnerabilities."&lt;SEP&gt;"LUCR-3 is an entity known for exploiting cloud vulnerabilities in hacking."&lt;SEP&gt;"A ransomware group known for exploiting cloud vulnerabilities. "&lt;SEP&gt;"A known cyber threat actor that specializes in exploiting cloud vulnerabilities to hijack SaaS and cloud environments."&lt;SEP&gt;"LUCR-3 is a cyber threat actor known for exploiting cloud vulnerabilities and hijacking SaaS environments."&lt;SEP&gt;"LUCR-3 is a group that is exploiting cloud vulnerabilities."&lt;SEP&gt;"LUCR-3 is a threat group that exploits cloud vulnerabilities."&lt;SEP&gt;"AI Group suspected of hijacking cloud services"&lt;SEP&gt;"AI Group suspected to be responsible for hijacking cloud services"&lt;SEP&gt;"A type of attacker who exploits cloud vulnerabilities, likely a malicious actor"&lt;SEP&gt;"An organization known for exploiting cloud vulnerabilities and conducting cyberattacks"&lt;SEP&gt;"LUCR-3 is a group known for exploiting cloud vulnerabilities."&lt;SEP&gt;"LUCR-3 is an entity known for exploiting cloud vulnerabilities in hacking."&lt;SEP&gt;"A ransomware group known for exploiting cloud vulnerabilities. "&lt;SEP&gt;"A known cyber threat actor that specializes in exploiting cloud vulnerabilities to hijack SaaS and cloud environments."&lt;SEP&gt;"LUCR-3 is a cyber threat actor known for exploiting cloud vulnerabilities and hijacking SaaS environments."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec&lt;SEP&gt;chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-c23297e6f0c32bf14ee07a8c865d4cac&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-20bcf0d690252f40046cacd4546a83a9&lt;SEP&gt;chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;HUNTRESS&quot;">
+      <data key="d0">"COMPANY"</data>
+      <data key="d1">"A cybersecurity company offering managed security services, including SIEM solutions."&lt;SEP&gt;"A cybersecurity company offering managed security services, including SIEM solutions."&lt;SEP&gt;"Company specializing in Managed SIEM solutions."&lt;SEP&gt;"Huntress is a company that provides managed SIEM solutions to their customers."&lt;SEP&gt;"Huntress is a managed SIEM provider, offering filtering, monitoring, and compliance assistance."&lt;SEP&gt;"Huntress is a company providing managed SIEM solutions for cybersecurity."&lt;SEP&gt;"Huntress is a cybersecurity company specializing in managed SIEM (Security Information and Event Management) solutions."&lt;SEP&gt;"Huntress is a managed SIEM provider, offering filtering, monitoring, and compliance assistance."&lt;SEP&gt;"Company specializing in Managed SIEM solutions."</data>
+      <data key="d2">chunk-4562ef12f7c8d2a1547c5b1d487ceb48&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-bef17a73426c13718dabba8e82e316b1&lt;SEP&gt;chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-ae22a7a5c30bd0ab03a6673a6258e9cb</data>
+    </node>
+    <node id="&quot;SAAS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Software as a Service - an on-demand delivery model for software applications. Often used in cloud-based environments."&lt;SEP&gt;"Software as a Service - an on-demand delivery model for software applications. Often used in cloud-based environments."&lt;SEP&gt;"Software as a Service,  a model of delivering software applications over the internet."&lt;SEP&gt;"Software as a Service, offering hosted software applications."&lt;SEP&gt;"Software-as-a-Service (SaaS) is mentioned as a target of cloud vulnerabilities."&lt;SEP&gt;"Software-as-a-Service (SaaS) is mentioned as a target of cloud vulnerabilities."&lt;SEP&gt;"Software as a Service, offering hosted software applications."&lt;SEP&gt;"Software as a Service,  a model of delivering software applications over the internet."</data>
+      <data key="d2">chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34</data>
+    </node>
+    <node id="&quot;CLOUD SECURITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Security measures related to the digital realm are discussed."</data>
+      <data key="d2">chunk-211ec1fdcc9980b0f9fc85b91ad73e11</data>
+    </node>
+    <node id="&quot;RANSOMWARE ATTACK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ransomware attacks are discussed"&lt;SEP&gt;"Ransomware attacks are discussed"&lt;SEP&gt;"The text discusses a record-breaking ransomware attack, referencing its impact on the organization."</data>
+      <data key="d2">chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-bef17a73426c13718dabba8e82e316b1</data>
+    </node>
+    <node id="&quot;DSPM&quot;">
+      <data key="d0">"TECHNIQUE"</data>
+      <data key="d1">"DSPM (Data Security and Privacy Management) is mentioned as a technique for removing shadow data risks."</data>
+      <data key="d2">chunk-211ec1fdcc9980b0f9fc85b91ad73e11</data>
+    </node>
+    <node id="&quot;SIEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Security Information &amp; Event Management - a system for monitoring security events and incidents. "&lt;SEP&gt;"Security Information &amp; Event Management - a system for monitoring security events and incidents. "&lt;SEP&gt;"Security Information and Event Management (SIEM) technologies are discussed in the context of cybersecurity"&lt;SEP&gt;"Security Information and Event Management (SIEM) technologies are discussed in the context of cybersecurity"</data>
+      <data key="d2">chunk-211ec1fdcc9980b0f9fc85b91ad73e11&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;JETPACK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jetpack is an all-in-one plugin that offers a comprehensive suite of tools to improve site safety, performance, and traffic growth."&lt;SEP&gt;"Jetpack is an all-in-one plugin that offers a comprehensive suite of tools to improve site safety, performance, and traffic growth."&lt;SEP&gt;"This plugin is known for its functionality related to site safety, performance, and traffic."&lt;SEP&gt;"This plugin is known for its functionality related to site safety, performance, and traffic."</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;AUTOMATTIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Automattic is the company that owns Jetpack"</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;WORDPRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WordPress is a company developing the WordPress CMS."&lt;SEP&gt;"WordPress is a company developing the WordPress CMS."&lt;SEP&gt;"WordPress is the platform where Jetpack works."&lt;SEP&gt;"WordPress is the platform where Jetpack works."</data>
+      <data key="d2">chunk-bbdc335898a78be0e8361f5490bc2e5c&lt;SEP&gt;chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;JETPACK PLUGIN&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Jetpack plugin contains tools and functionalities for WordPress site safety, performance, and traffic improvement."</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;CONTACT FORM&quot;">
+      <data key="d0">"FEATURE"</data>
+      <data key="d1">"A feature in Jetpack that can be used to submit forms"&lt;SEP&gt;"A feature in Jetpack that can be used to submit forms"&lt;SEP&gt;"This is the location where information about the vulnerability was first identified"&lt;SEP&gt;"This is the location where information about the vulnerability was first identified"</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;WORDPRESS.ORG SECURITY TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The team working on security for WordPress"</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;MATT MULLENWEG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matt Mullenweg is the founder of WordPress."</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;SECURE CUSTOM FIELDS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A fork created by WordPress to resolve security issues."</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;ADVANCED CUSTOM FIELDS (ACF) PLUGIN&quot;">
+      <data key="d0">"PLUGIN"</data>
+      <data key="d1">"This plugin is used for customization of WordPress sites and was part of the dispute between Matt Mullenweg and WP Engine"</data>
+      <data key="d2">chunk-8d76d3eeea530142fe05fbc59d705222</data>
+    </node>
+    <node id="&quot;IVANTI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity company that develops software such as Ivanti CSA, which is associated with the reported vulnerabilities."&lt;SEP&gt;"A cybersecurity company that develops software such as Ivanti CSA, which is associated with the reported vulnerabilities."&lt;SEP&gt;"Ivanti is a company that provides cybersecurity services and updates its software, such as the Cloud Service Appliance (CSA), to address vulnerabilities."&lt;SEP&gt;"Ivanti is a company that provides cybersecurity services to manage software updates (such as the Cloud Service Appliance (CSA), and addresses vulnerabilities. They provide products to manage infrastructure, including security features."&lt;SEP&gt;"Ivanti is a company that provides cybersecurity services and updates its software, such as the Cloud Service Appliance (CSA), to address vulnerabilities."&lt;SEP&gt;"Ivanti is a company that provides cybersecurity services to manage software updates (such as the Cloud Service Appliance (CSA), and addresses vulnerabilities. They provide products to manage infrastructure, including security features."</data>
+      <data key="d2">chunk-776e4487c810e7b86fb66db8af20d941&lt;SEP&gt;chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;FORTINET&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A cybersecurity company whose FortiGuard Labs conducted research on the cyber attacks and issued reports regarding the vulnerabilities."&lt;SEP&gt;"A cybersecurity company whose FortiGuard Labs conducted research on the cyber attacks and issued reports regarding the vulnerabilities."&lt;SEP&gt;"Fortinet is a company that produces security products, including firewalls."&lt;SEP&gt;"Fortinet is a software company that provides cybersecurity solutions, issuing a security patch for a critical flaw."&lt;SEP&gt;"Fortinet is a company that produces security products, including firewalls."</data>
+      <data key="d2">chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-6ed71e679f0e5bd995b49d40da980440&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;CVE-2024-8190&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"A command injection flaw in the resource /gsb/DateTimeTab.php"</data>
+      <data key="d2">chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;CVE-2024-8963&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"A path traversal vulnerability on the resource /client/index.php"</data>
+      <data key="d2">chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;CVE-2024-9380&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"An authenticated command injection vulnerability affecting the resource reports.php"&lt;SEP&gt;"An authenticated command injection vulnerability affecting the resource reports.php"&lt;SEP&gt;"An operating system (OS) command injection vulnerability in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to obtain remote code execution."&lt;SEP&gt;"An operating system (OS) command injection vulnerability in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to obtain remote code execution."</data>
+      <data key="d2">chunk-776e4487c810e7b86fb66db8af20d941&lt;SEP&gt;chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;NATION-STATE ATTACKERS&quot;">
+      <data key="d0">"THREAT ACTOR"</data>
+      <data key="d1">"A group of individuals, possibly from a nation, who have exploited vulnerabilities to gain access and perform attacks."&lt;SEP&gt;"A group of individuals, possibly from a nation, who have exploited vulnerabilities to gain access and perform attacks."&lt;SEP&gt;"They are attackers who use advanced hacking techniques and leverage government support."&lt;SEP&gt;"Groups or individuals who operate in government and employ their resources for political, military, or economic objectives."&lt;SEP&gt;"Nation-state attackers are the individuals or organizations that exploit known vulnerabilities to achieve their political, military, or economic objectives."&lt;SEP&gt;"They are attackers who use advanced hacking techniques and leverage government support."&lt;SEP&gt;"Groups or individuals who operate in government and employ their resources for political, military, or economic objectives."&lt;SEP&gt;"Nation-state attackers are the individuals or organizations that exploit known vulnerabilities to achieve their political, military, or economic objectives."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686&lt;SEP&gt;chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;IVANTI CSA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ivanti CSA (Cybersecurity Advisory Services) is a software security provider known for mitigating cybersecurity vulnerabilities."&lt;SEP&gt;"Ivanti CSA (Cybersecurity Advisory Services) is a software security provider known for mitigating cybersecurity vulnerabilities."&lt;SEP&gt;"The primary target of the attack is the Ivanti Cloud Service Appliance (CSA) used in the affected network."&lt;SEP&gt;"Ivanti CSA is mentioned as a software platform exploited in a network infiltration attack."&lt;SEP&gt;"Software platform vulnerable to exploitation for network infiltration"&lt;SEP&gt;"The primary target of the attack is the Ivanti Cloud Service Appliance (CSA) used in the affected network."&lt;SEP&gt;"Ivanti CSA is mentioned as a software platform exploited in a network infiltration attack."&lt;SEP&gt;"Software platform vulnerable to exploitation for network infiltration"</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686&lt;SEP&gt;chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;MICROSOFT ENDPOINT MANAGER (EPM)&quot;">
+      <data key="d0">"APPLICATION"</data>
+      <data key="d1">"A software application utilized by companies for managing their endpoints."</data>
+      <data key="d2">chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;U.S. CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY (CISA)&quot;">
+      <data key="d0">"GOVERNMENT AGENCY"</data>
+      <data key="d1">"Responsible for monitoring cyber threats and issuing guidance on security."</data>
+      <data key="d2">chunk-6ed71e679f0e5bd995b49d40da980440</data>
+    </node>
+    <node id="&quot;RANSOMWARE PAYOUT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Represents the increased attacks on organizations due to ransomware."</data>
+      <data key="d2">chunk-adc0de6c4f0ee0a55604d8a023d252c2</data>
+    </node>
+    <node id="&quot;SOFTWARE SUPPLY CHAIN SECURITY&quot;">
+      <data key="d0">"TOPIC"</data>
+      <data key="d1">"A concept related to securing software supply chains, particularly against cyberattacks like ransomware."&lt;SEP&gt;"A concept related to securing software supply chains, particularly against cyberattacks like ransomware."&lt;SEP&gt;"The text discusses software supply chain security, which refers to the risk of cyberattacks originating from suppliers or third-party vendors."&lt;SEP&gt;"Organization specializing in software supply chain security."&lt;SEP&gt;"A crucial area of focus for cybersecurity due to the vulnerability it presents to attacks. "&lt;SEP&gt;"Organization specializing in software supply chain security."&lt;SEP&gt;"A crucial area of focus for cybersecurity due to the vulnerability it presents to attacks. "</data>
+      <data key="d2">chunk-4562ef12f7c8d2a1547c5b1d487ceb48&lt;SEP&gt;chunk-adc0de6c4f0ee0a55604d8a023d252c2&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-bef17a73426c13718dabba8e82e316b1</data>
+    </node>
+    <node id="&quot;HUNTRESS MANAGED SIEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A managed security information and event management (SIEM) solution."&lt;SEP&gt;"A managed security information and event management (SIEM) solution."&lt;SEP&gt;"An AI-powered SIEM solution designed for security monitoring and incident response."&lt;SEP&gt;"Huntress Managed SIEM provides cybersecurity solutions by filtering security data and monitoring the environment."&lt;SEP&gt;"Huntress Managed SIEM is a solution that offers smart filtering for security data, constant monitoring, and compliance assistance."&lt;SEP&gt;"Huntress Managed SIEM offers a solution for managing security data and incident response."&lt;SEP&gt;"Company offering managed SIEM solutions focused on smart filtering, monitoring and compliance assistance."&lt;SEP&gt;"Huntress is a company that offers managed SIEM services, which focus on security data management, monitoring, and compliance."&lt;SEP&gt;"An AI-powered SIEM solution designed for security monitoring and incident response."&lt;SEP&gt;"Huntress Managed SIEM provides cybersecurity solutions by filtering security data and monitoring the environment."&lt;SEP&gt;"Huntress Managed SIEM is a solution that offers smart filtering for security data, constant monitoring, and compliance assistance."&lt;SEP&gt;"Huntress Managed SIEM offers a solution for managing security data and incident response."&lt;SEP&gt;"Company offering managed SIEM solutions focused on smart filtering, monitoring and compliance assistance."&lt;SEP&gt;"Huntress is a company that offers managed SIEM services, which focus on security data management, monitoring, and compliance."</data>
+      <data key="d2">chunk-eb422cfca10c3b580474673b12131b90&lt;SEP&gt;chunk-4562ef12f7c8d2a1547c5b1d487ceb48&lt;SEP&gt;chunk-adc0de6c4f0ee0a55604d8a023d252c2&lt;SEP&gt;chunk-04f6f5d4a4f46d887dc39e9cb065fc81&lt;SEP&gt;chunk-117f045d534b3220681053029c553e34</data>
+    </node>
+    <node id="&quot;VIDEOS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Educational videos on various topics in cybersecurity"&lt;SEP&gt;"Educational videos on various topics in cybersecurity"&lt;SEP&gt;"Multimedia content, specifically video content about cybersecurity."&lt;SEP&gt;"Multimedia content, specifically video content about cybersecurity."</data>
+      <data key="d2">chunk-adc0de6c4f0ee0a55604d8a023d252c2&lt;SEP&gt;chunk-4562ef12f7c8d2a1547c5b1d487ceb48</data>
+    </node>
+    <node id="&quot;MASTER PRIVILEGED ACCESS MANAGEMENT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Best practices to secure privileged access in IT systems."</data>
+      <data key="d2">chunk-adc0de6c4f0ee0a55604d8a023d252c2</data>
+    </node>
+    <node id="&quot;IOT DEVICES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Small internet of Things (IoT) devices that are vulnerable to attacks."</data>
+      <data key="d2">chunk-adc0de6c4f0ee0a55604d8a023d252c2</data>
+    </node>
+    <node id="&quot;WEBINARS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A webinar is a type of virtual presentation that provides information or training on a particular topic."</data>
+      <data key="d2">chunk-fb893c68bd2d997c7bb374c12d4af47c</data>
+    </node>
+    <node id="&quot;PRIVACY POLICY&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"A Privacy Policy is a document that outlines how an organization collects, uses, and protects user information."</data>
+      <data key="d2">chunk-fb893c68bd2d997c7bb374c12d4af47c</data>
+    </node>
+    <node id="&quot;RSS FEEDS&quot;">
+      <data key="d0">"TOOL"</data>
+      <data key="d1">"RSS feeds are a type of web technology that provides real-time updates on content based on subscriptions."</data>
+      <data key="d2">chunk-fb893c68bd2d997c7bb374c12d4af47c</data>
+    </node>
+    <node id="&quot;CHECKMARX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Checkmarx is a company specializing in software supply chain security."&lt;SEP&gt;"Checkmarx is a company specializing in software supply chain security."&lt;SEP&gt;"Checkmarx"), ("entity"&lt;SEP&gt;"Checkmarx"), ("entity"</data>
+      <data key="d2">chunk-0f4f7835249cb374ddac7b48641f13d3</data>
+    </node>
+    <node id="&quot;GIAC NEWSLETTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GIAC Newsletter is an organization that provides information on cybersecurity."</data>
+      <data key="d2">chunk-117f045d534b3220681053029c553e34</data>
+    </node>
+    <node id="&quot;GLOBAL-E'">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Global-e is an organization specializing in cybersecurity and data protection."</data>
+      <data key="d2">chunk-117f045d534b3220681053029c553e34</data>
+    </node>
+    <node id="&quot;CLOUD COMPUTING&quot;">
+      <data key="d0">"TECHNOLOGY/ENVIRONMENT"</data>
+      <data key="d1">"Provides access to computing resources over the internet."</data>
+      <data key="d2">chunk-117f045d534b3220681053029c553e34</data>
+    </node>
+    <node id="&quot;DATA PROTECTION&quot;">
+      <data key="d0">"CONCEPT/METHODOLOGY"</data>
+      <data key="d1">"Protects and safeguards sensitive information from unauthorized access or loss"</data>
+      <data key="d2">chunk-117f045d534b3220681053029c553e34</data>
+    </node>
+    <node id="&quot;THN CYBERSECURITY RECAP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity news platform providing updates and analyses of latest developments in the field."</data>
+      <data key="d2">chunk-94076a50ceb930723b29e158b859d42f</data>
+    </node>
+    <node id="&quot;RAVIE LAKSHMANAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ravie Lakshmanan is a cybersecurity expert and author of the weekly "Cybersecurity Recap" column."</data>
+      <data key="d2">chunk-94076a50ceb930723b29e158b859d42f</data>
+    </node>
+    <node id="&quot;GOLDENJACKAL&quot;">
+      <data key="d0">"HACKING CREW"</data>
+      <data key="d1">"A hacking group known for targeting secure systems"</data>
+      <data key="d2">chunk-94076a50ceb930723b29e158b859d42f</data>
+    </node>
+    <node id="&quot;APPLE&quot;">
+      <data key="d0">"TECHNOLOGY/ORGANIZATION"</data>
+      <data key="d1">"Apple designs and sells consumer electronics like iPhones, Macs, software, and services."&lt;SEP&gt;"Apple designs and sells consumer electronics like iPhones, Macs, software, and services."&lt;SEP&gt;"The iOS mirroring feature in macOS allows users to mirror their iPhones. However, Apple acknowledged and is working on a fix for privacy risks."&lt;SEP&gt;"The iOS mirroring feature in macOS allows users to mirror their iPhones. However, Apple acknowledged and is working on a fix for privacy risks."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-94076a50ceb930723b29e158b859d42f</data>
+    </node>
+    <node id="&quot;GOOGLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A technology company focusing on cybersecurity and online services."&lt;SEP&gt;"A technology company focusing on cybersecurity and online services."&lt;SEP&gt;"Google develops and delivers various technologies including search engines, maps, cloud computing, etc."&lt;SEP&gt;"New version of the extensions platform that avoids security loopholes"&lt;SEP&gt;"Google released security updates for their Android platform and its components."&lt;SEP&gt;"New version of the extensions platform that avoids security loopholes"&lt;SEP&gt;"Google develops and delivers various technologies including search engines, maps, cloud computing, etc."&lt;SEP&gt;"Google released security updates for their Android platform and its components."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc&lt;SEP&gt;chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-8e8f6a63f8844355f296d76deeca28c2&lt;SEP&gt;chunk-94076a50ceb930723b29e158b859d42f</data>
+    </node>
+    <node id="&quot;SQUAREX&quot;">
+      <data key="d0">"GOOGLE'S MANIFEST V3"</data>
+      <data key="d1">"Analysis on Google's latest version of the extensions platform"&lt;SEP&gt;"Analysis on Google's latest version of the extensions platform"&lt;SEP&gt;"research company specializing in cybersecurity, conducted research on data security vulnerabilities."&lt;SEP&gt;"research company specializing in cybersecurity, conducted research on data security vulnerabilities."</data>
+      <data key="d2">chunk-94076a50ceb930723b29e158b859d42f&lt;SEP&gt;chunk-356f3678cf737988d655487424616f5e</data>
+    </node>
+    <node id="&quot;CYBERSECURITY RECAP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity news platform providing updates and analyses of latest developments in the field."</data>
+      <data key="d2">chunk-94076a50ceb930723b29e158b859d42f</data>
+    </node>
+    <node id="&quot;MOZILLA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A technology company developing a browser that has released security updates to fix vulnerabilities."&lt;SEP&gt;"A technology company developing a browser that has released security updates to fix vulnerabilities."&lt;SEP&gt;"Mozilla has released updates for its Firefox browser after patching a critical zero-day vulnerability."&lt;SEP&gt;"Mozilla has released updates for its Firefox browser after patching a critical zero-day vulnerability."</data>
+      <data key="d2">chunk-94076a50ceb930723b29e158b859d42f&lt;SEP&gt;chunk-bdac24cdc900192e7d3a9b5fdcbb1933</data>
+    </node>
+    <node id="&quot;GIAC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity organization that offers certifications and insights through its newsletter."&lt;SEP&gt;"A cybersecurity organization that offers certifications and insights through its newsletter."&lt;SEP&gt;"A cybersecurity organization that provides expert insights and certifications."&lt;SEP&gt;"The GIAC (Global Information Assurance Council) is a non-profit organization dedicated to cybersecurity."&lt;SEP&gt;"The GIAC is a cybersecurity organization specializing in certifications and expert insights."&lt;SEP&gt;"The GIAC (Global Information Assurance Council) is a non-profit organization dedicated to cybersecurity."&lt;SEP&gt;"The GIAC is a cybersecurity organization specializing in certifications and expert insights."&lt;SEP&gt;"A cybersecurity organization that provides expert insights and certifications."</data>
+      <data key="d2">chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee&lt;SEP&gt;chunk-20bcf0d690252f40046cacd4546a83a9</data>
+    </node>
+    <node id="&quot;NEWSLETTER&quot;">
+      <data key="d0">"COMMUNICATION CHANNEL"</data>
+      <data key="d1">"Subscribe to the newsletter for monthly expert insights on cybersecurity."&lt;SEP&gt;"Subscribe to the newsletter for monthly expert insights on cybersecurity."&lt;SEP&gt;"Used by GIAC to share cybersecurity information with subscribers."&lt;SEP&gt;"Used by GIAC to share cybersecurity information with subscribers."</data>
+      <data key="d2">chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-f1fe667890845b2f3a6a2cbef72a27ee</data>
+    </node>
+    <node id="&quot;SERVICE ACCOUNT PROTECTION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A concept in cybersecurity referring to the protection of accounts and privileges related to service delivery"&lt;SEP&gt;"A concept in cybersecurity referring to the protection of accounts and privileges related to service delivery"&lt;SEP&gt;"Security measures to protect service accounts and account security."&lt;SEP&gt;"Security measures to protect service accounts, including access controls and security protocols."&lt;SEP&gt;"Security measures to protect service accounts and account security."&lt;SEP&gt;"Security measures to protect service accounts, including access controls and security protocols."</data>
+      <data key="d2">chunk-98d299f5f15e1dea8de8c9e189c64e69&lt;SEP&gt;chunk-20bcf0d690252f40046cacd4546a83a9</data>
+    </node>
+    <node id="&quot;CLOUD IN HOURS LUCR-3&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"An organization actively exploiting vulnerabilities in cloud platforms is being referred to as Cloud in Hours LUCR-3. "&lt;SEP&gt;"An organization actively exploiting vulnerabilities in cloud platforms is being referred to as Cloud in Hours LUCR-3. "&lt;SEP&gt;"Cloud in Hours LUCR-3 is an organization that is exploiting cloud vulnerabilities."&lt;SEP&gt;"Cloud in Hours LUCR-3 is an organization that is exploiting cloud vulnerabilities."</data>
+      <data key="d2">chunk-eb422cfca10c3b580474673b12131b90</data>
+    </node>
+    <node id="&quot;GLOBAL-E'S CISO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Global-e's CISO used DSPM to eliminate shadow data risks and protect critical information."&lt;SEP&gt;"Global-e's CISO used DSPM to eliminate shadow data risks and protect critical information."&lt;SEP&gt;"Global-e's CISO used specific strategies to address the challenge of shadow data risk."&lt;SEP&gt;"Global-e's CISO used specific strategies to address the challenge of shadow data risk."</data>
+      <data key="d2">chunk-eb422cfca10c3b580474673b12131b90</data>
+    </node>
+    <node id="&quot;MASTER PRIVILEGED ACCESS MANAGEMENT: BEST PRACTICES TO IMPLEMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is a video about best practices for implementing privileged access management."</data>
+      <data key="d2">chunk-839eab8fdbc316ea2a71b5a97a42f35f</data>
+    </node>
+    <node id="&quot;THE MICROSOFT 365 BACKUP GAME JUST CHANGED: RANSOMWARE RECOVERY REVOLUTIONIZED&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This article describes the game-changing event in the world of Microsoft 365 backup and ransomware recovery."</data>
+      <data key="d2">chunk-839eab8fdbc316ea2a71b5a97a42f35f</data>
+    </node>
+    <node id="&quot;MICROSOFT 365 BACKUP GAME JUST CHANGED: RANSOMWARE RECOVERY REVOLUTIONIZED&quot;">
+      <data key="d2">chunk-839eab8fdbc316ea2a71b5a97a42f35f</data>
+      <data key="d1">"These events are discussed by The Hacker News, and they likely provide insight into the impact of these changes.")</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;HUNTRESS CYBERSECURITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Huntress Cybersecurity is a company providing managed SIEM solutions."</data>
+      <data key="d2">chunk-bef17a73426c13718dabba8e82e316b1</data>
+    </node>
+    <node id="&quot;USTAXES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Used as an example of a legitimate repository in the tax-themed malware campaign."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;HMRC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A well-known repository used in the tax-themed malware campaign, representing the UK's revenue agency"</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;INLANDREVENUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Another well-known repository used in the tax-themed malware campaign, representing the UK's revenue agency"</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;COFENSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity research and threat intelligence company."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;OALABS RESEARCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A security research firm specializing in cybersecurity and threat intelligence."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;MORPHISEC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity company providing endpoint protection solutions."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;BARRACUDA NETWORKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Provides cybersecurity solutions, including threat prevention, detection, and response."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;BOOKING.COM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A travel booking platform that has been targeted by phishers."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;AIRBNB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Another travel platform that has been targeted by phishers."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;ESET&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Provides cybersecurity products and solutions, including anti-malware tools."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;TELEKOPYE&quot;">
+      <data key="d0">"GROUP/TOOL/TOOLKIT"</data>
+      <data key="d1">"A malicious Telegram toolkit used to carry out phishing attacks"</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;MAMMOTH&quot;">
+      <data key="d0">"TOOL/TOOLKIT"</data>
+      <data key="d1">"The tool/toolkit behind the Telekopye Telegram attack, used for phishing."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;CZECHIA&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"A country where law enforcement officials arrested cybercriminals involved in a telekopye-related investigation"</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;UKRAINE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Another country where law enforcement officials arrested cybercriminals involved in a telekopye-related investigation."</data>
+      <data key="d2">chunk-531b6ec9daf27b26e55cf2c3c1e2d672</data>
+    </node>
+    <node id="&quot;UNITED STATES FEDERAL BUREAU OF INVESTIGATION (FBI)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The FBI is involved in investigations and prosecutions related to cybersecurity crimes."</data>
+      <data key="d2">chunk-d8dd0d274f5f6c0beae20e25d7e971ca</data>
+    </node>
+    <node id="&quot;BACKUP GAME&quot;">
+      <data key="d0">"EVENT/CONCEPT"</data>
+      <data key="d1">"Implies a competition in data security and recovery."&gt;</data>
+      <data key="d2">chunk-08b592cdcabd3160930232cd98167e41</data>
+    </node>
+    <node id="&quot;SEPTEMBER 28, 2024&quot;">
+      <data key="d0">"DATE"</data>
+      <data key="d1">"Specific date used to mark the event of 'the Microsoft 365 Backup game' occurring."</data>
+      <data key="d2">chunk-08b592cdcabd3160930232cd98167e41</data>
+    </node>
+    <node id="&quot;BOHEMIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A dark web marketplace for illegal goods, drugs, and cybercrime services."</data>
+      <data key="d2">chunk-0b4c5568552439f7d8f1b1b5c3fa5d21</data>
+    </node>
+    <node id="&quot;MICROSOFT 365 BACKUP GAME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Significant change to the Microsoft 365 backup landscape."</data>
+      <data key="d2">chunk-4562ef12f7c8d2a1547c5b1d487ceb48</data>
+    </node>
+    <node id="&quot;RANSOMWARE RECOVERY REVOLUTIONIZED&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Development of new methods for recovering data after ransomware attacks."&lt;SEP&gt;"Development of new methods for recovering data after ransomware attacks."&lt;SEP&gt;"Important change in ransomware recovery methods, likely a significant development."&lt;SEP&gt;"Important change in ransomware recovery methods, likely a significant development."</data>
+      <data key="d2">chunk-4562ef12f7c8d2a1547c5b1d487ceb48</data>
+    </node>
+    <node id="&quot;SMART FILTERING&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"An advanced method for security analysis used by the Huntress Managed SIEM."</data>
+      <data key="d2">chunk-4562ef12f7c8d2a1547c5b1d487ceb48</data>
+    </node>
+    <node id="&quot;NICE LINEAR EMERGE E3&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A type of access control system that is vulnerable to unauthenticated remote attack."</data>
+      <data key="d2">chunk-78c37ef17e6c2d642cb770a3769bab98</data>
+    </node>
+    <node id="&quot;SOC ANALYST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A SOC analyst is someone who investigates security incidents in an organization's Security Operations Center (SOC)."</data>
+      <data key="d2">chunk-f9b5286c94803be1eb9ad067a52666a2</data>
+    </node>
+    <node id="&quot;CYBERSECURITY LANDSCAPE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The cybersecurity landscape refers to the current security environment, including threats, vulnerabilities, and attacks."</data>
+      <data key="d2">chunk-f9b5286c94803be1eb9ad067a52666a2</data>
+    </node>
+    <node id="&quot;OSTERMAN RESEARCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Osterman Research is a research firm focusing on cybersecurity trends and challenges."</data>
+      <data key="d2">chunk-f9b5286c94803be1eb9ad067a52666a2</data>
+    </node>
+    <node id="&quot;CYBERSECURITY NEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cybersecurity news is a sector of journalism that focuses on reporting and analyzing security threats, vulnerabilities, and incidents. "&gt;</data>
+      <data key="d2">chunk-f9b5286c94803be1eb9ad067a52666a2</data>
+    </node>
+    <node id="&quot;RANSOMWARE ATTACKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The text mentions the record-breaking amount of ransomware attacks, indicating their increasing threat."</data>
+      <data key="d2">chunk-ae22a7a5c30bd0ab03a6673a6258e9cb</data>
+    </node>
+    <node id="&quot;PALO ALTO NETWORKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Palo Alto Networks is a cybersecurity company that offers networking and cloud-based solutions."</data>
+      <data key="d2">chunk-ac0951053d842da944c87f6833da800b</data>
+    </node>
+    <node id="&quot;EXPEDITION&quot;">
+      <data key="d0">"SOFTWARE"</data>
+      <data key="d1">" Expedition is software developed by Palo Alto Networks for network security"</data>
+      <data key="d2">chunk-ac0951053d842da944c87f6833da800b</data>
+    </node>
+    <node id="&quot;FCEB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Federal Civilian Executive Branch (FCEB) agencies are responsible for cybersecurity and other aspects of national security in the U.S."</data>
+      <data key="d2">chunk-ac0951053d842da944c87f6833da800b</data>
+    </node>
+    <node id="&quot;HORIZON3.AI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Horizon3.ai is a cybersecurity company that provides vulnerability discovery and research services."</data>
+      <data key="d2">chunk-ac0951053d842da944c87f6833da800b</data>
+    </node>
+    <node id="&quot;CISCO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cisco is a networking company that develops hardware and software for businesses and government agencies."&lt;SEP&gt;"Cisco is a networking company that develops hardware and software for businesses and government agencies."&lt;SEP&gt;"Cisco is a technology company known for networking equipment and collaboration tools."&lt;SEP&gt;"Cisco is a technology company known for networking equipment and collaboration tools."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b</data>
+    </node>
+    <node id="&quot;US&quot;">
+      <data key="d0">"COUNTRY"</data>
+      <data key="d1">"The United States of America is being referenced as the base of operations for many entities involved"</data>
+      <data key="d2">chunk-ac0951053d842da944c87f6833da800b</data>
+    </node>
+    <node id="&quot;OILRIG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"OilRig is a cybercrime group that specializes in using hacking for financial gain."&lt;SEP&gt;"OilRig is a cybercrime group that specializes in using hacking for financial gain."&lt;SEP&gt;"OilRig is a threat group that specializes in targeting government agencies, businesses, and individuals for financial gain."&lt;SEP&gt;"OilRig is an operation known for exploiting Windows kernel flaws to target the UAE and Gulf countries."&lt;SEP&gt;"OilRig is an organization known for using hacking tactics to carry out cyber attacks."&lt;SEP&gt;"OilRig is a threat group that specializes in targeting government agencies, businesses, and individuals for financial gain."&lt;SEP&gt;"OilRig is an organization known for using hacking tactics to carry out cyber attacks."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;OPENAI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"OpenAI is a research and deployment company developing advanced AI technologies"&lt;SEP&gt;"OpenAI is a research and deployment company developing advanced AI technologies"&lt;SEP&gt;"OpenAI is a research and deployment company focused on developing artificial intelligence (AI)."&lt;SEP&gt;"OpenAI, a company developing AI technologies, blocks malicious campaigns using AI."&lt;SEP&gt;"OpenAI is a research and deployment company focusing on advanced AI technology."&lt;SEP&gt;"OpenAI is a research and deployment company focused on developing artificial intelligence (AI)."&lt;SEP&gt;"OpenAI is a research and deployment company focusing on advanced AI technology."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-ac0951053d842da944c87f6833da800b&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;NATION-STATE&quot;">
+      <data key="d0">"POLITICAL ENTITY"</data>
+      <data key="d1">"Nation-states are sovereign countries that actively engage in espionage and other activities to advance their national interests."</data>
+      <data key="d2">chunk-ac0951053d842da944c87f6833da800b</data>
+    </node>
+    <node id="&quot;PALO ALTO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Palo Alto Networks is another organization known for its cybersecurity solutions, also issuing a security patch due to vulnerability."&lt;SEP&gt;"Palo Alto is a software company known for security products and solutions."&lt;SEP&gt;"Palo Alto is a software company known for security products and solutions."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;PHISHING ATTACKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The document mentions phishing attacks, which are a type of cybercrime that uses deception to steal personal information."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d</data>
+    </node>
+    <node id="&quot;ESPIONAGE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Espionage refers to clandestine gathering of information about individuals or countries for political advantage."&lt;SEP&gt;"Espionage refers to clandestine gathering of information about individuals or countries for political advantage."&lt;SEP&gt;"Espionage refers to the act of gathering secret information, often for political or personal gain."&lt;SEP&gt;"Espionage refers to the act of gathering secret information, often for political or personal gain."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072</data>
+    </node>
+    <node id="&quot;UAE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A region targeted in an espionage campaign by OilRig, using a Windows Kernel flaw for attacks"&lt;SEP&gt;"The UAE is a country located in the Middle East that is the target of attacks by OilRig."&lt;SEP&gt;"United Arab Emirates"&lt;SEP&gt;"UAE stands for the United Arab Emirates, a region often targeted in espionage by state actors."&lt;SEP&gt;"The United Arab Emirates is a location targeted by hybrid password attacks."&lt;SEP&gt;"The UAE is a country located in the Middle East that is the target of attacks by OilRig."&lt;SEP&gt;"United Arab Emirates"&lt;SEP&gt;"UAE stands for the United Arab Emirates, a region often targeted in espionage by state actors."&lt;SEP&gt;"The United Arab Emirates is a location targeted by hybrid password attacks."</data>
+      <data key="d2">chunk-58aa49482cf37712daf7c9c168bed072&lt;SEP&gt;chunk-a388cbe2c476098c17e767a7c377b35c&lt;SEP&gt;chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;GULF STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Gulf states are geographically close and often affected by geopolitical tensions."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d</data>
+    </node>
+    <node id="&quot;GITLAB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GitLab is a company providing version control system services, which could have been exploited."&lt;SEP&gt;"GitLab is a company specializing in version control systems for software development"&lt;SEP&gt;"GitLab is an organization that has released a vulnerability that can lead to arbitrary CI/CD pipeline execution."&lt;SEP&gt;"Software company that has released a vulnerability enabling attackers to execute arbitrary code."&lt;SEP&gt;"GitLab is a company specializing in version control systems for software development"&lt;SEP&gt;"GitLab is an organization that has released a vulnerability that can lead to arbitrary CI/CD pipeline execution."&lt;SEP&gt;"Software company that has released a vulnerability enabling attackers to execute arbitrary code."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686&lt;SEP&gt;chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;TESLA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Tesla is an electric car manufacturer known for its innovative technology in EVs."</data>
+      <data key="d2">chunk-703e6cf66222e4d9991de620b434ff8d</data>
+    </node>
+    <node id="&quot;FOLLOWERS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Followers are individuals who engage with the company's content and platform on social media platforms"</data>
+      <data key="d2">chunk-8ef32bc83d32977b3a9c4a34d2ba4100</data>
+    </node>
+    <node id="&quot;GLOBAL CYBERSECURITY SUMMIT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"An annual event focused on cybersecurity, bringing together industry experts and professionals."</data>
+      <data key="d2">chunk-8e8f6a63f8844355f296d76deeca28c2</data>
+    </node>
+    <node id="&quot;CLAROTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Claroty is a cybersecurity firm that conducts research and provides expertise on the vulnerabilities of industrial systems."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;MASHAV SAPIR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mashav Sapir is a researcher at Claroty who has conducted analysis on security vulnerabilities in industrial MMS protocol libraries."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;VERA MENS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vera Mens is a researcher at Claroty, alongside Mashav Sapir, who participated in the research about security vulnerabilities in industrial MMS protocol libraries."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;MZ AUTOMATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MZ Automation produces and maintains libIEC61850 library for use in industrial applications, which has been subject to critical security vulnerability analysis by Claroty."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;TRIANGLE MICROWORKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Triangle Microworks develops and supports TMW IEC 61850 libraries for industrial applications, with their products being targeted by security vulnerabilities analyzed by Claroty."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;SIEMENS SIPROTEC 5&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Siemens' SIPROTEC 5 IED is an Industrial control system for power grid management and uses MMS for communication. It has been identified as vulnerable to exploits due to outdated protocols."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;SISCO'S MMS-EASE STACK&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"SISCO's MMS-EASE stack was used by Siemens SIPROTEC 5 IED, which became a target of security vulnerabilities."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;CISA (CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CISA is a U.S. Government agency responsible for cybersecurity and infrastructure protection."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;NOZOMI NETWORKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nozomi Networks specializes in Industrial cyber security and threat intelligence, actively uncovering new vulnerabilities and detailing the impacts of exploits."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;ESP-NOW&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ESP-NOW is a wireless protocol used for secure IoT applications and has been identified as susceptible to exploitability."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;OPENFLOW&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"OpenFlow is an open-source networking protocol that enables the creation of SDN, also found in security systems such as building alarms."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;FLUIDFAULTS&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"FluidFaults is a collection of unpatched vulnerabilities in the OpenFlow libfluid_msg parsing library, collectively discovered by Nozomi Networks."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;BECKHOFF AUTOMATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Beckhoff Automation develops TwinCAT/BSD operating system for industrial automation and PLC applications."</data>
+      <data key="d2">chunk-40a2d19e1628d6174d3c14890b0b2f28</data>
+    </node>
+    <node id="&quot;SECURITY OPERATIONS FOR NON-HUMAN IDENTITIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is an event focused on understanding how to manage security for non-human identities. "</data>
+      <data key="d2">chunk-04f6f5d4a4f46d887dc39e9cb065fc81</data>
+    </node>
+    <node id="&quot;SOFTWARE SUPPLY CHAIN SECURITY FOR DUMMIES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A comprehensive guide explaining how to improve the security of software supply chains. "</data>
+      <data key="d2">chunk-04f6f5d4a4f46d887dc39e9cb065fc81</data>
+    </node>
+    <node id="&quot;CVE-2024-43572&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"A Microsoft Management Console Remote Code Execution Vulnerability has been exploited in the wild."</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;CVE-2024-43573&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"An MSHTML Platform Spoofing vulnerability is actively exploited as a zero-day - CVE-2024-43573 (CVSS score: 6.5) "</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;CVE-2024-43583&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"Winlogon Elevation of Privilege Vulnerability"</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;CVE-2024-20659&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"Windows Hyper-V Security Feature Bypass Vulnerability"</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;CVE-2024-6197&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"Open Source Curl Remote Code Execution Vulnerability (non-Microsoft CVE)"</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;TENABLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Tenable is mentioned as a company specializing in cybersecurity research"</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;SATNAM NARANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Satnam Narang is a senior staff researcher at Tenable"</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;ANDRES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">" Andres is a researcher who reported CVE-2024-43572"</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;SHADY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shady is another researcher who reported CVE-2024-43573"</data>
+      <data key="d2">chunk-288b154c842ffbb4b9a9b64f656e97c0</data>
+    </node>
+    <node id="&quot;CRYPTO MARKET MANIPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"a phenomenon that has led to a significant financial loss due to the vulnerability of APIs and Bot attacks."</data>
+      <data key="d2">chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;BUSINESSES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Businesses suffer losses from Crypto Market Manipulation, highlighting the need for stronger cybersecurity measures."</data>
+      <data key="d2">chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;ASCII QR CODES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ASCII QR codes are being abused in new forms of phishing attacks to try and trick users into clicking harmful links."</data>
+      <data key="d2">chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;ESPIONAGE CAMPAIGN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"An espionage campaign targeting the UAE and Gulf by exploiting a vulnerability in Windows Kernel"</data>
+      <data key="d2">chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </node>
+    <node id="&quot;IVANTI CSA FLAW&quot;">
+      <data key="d2">chunk-3ec174060a96ac61832e97b330ffd695</data>
+      <data key="d1">"Exploiting a flaw in Ivanti CSA allows attackers to conduct network infiltration")</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ENTERPRISE SECURITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A field of security focusing on enterprise-level vulnerabilities."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;IDENTITY THEFT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The act of stealing personal information, identity data, or credentials"</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;FILE HOSTING SERVICES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"File hosting services like SharePoint, OneDrive, and Dropbox are widely used in enterprise environments."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;BEC ATTACKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Business email compromise (BEC) attacks involve impersonating legitimate entities to steal financial information from individuals or businesses."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;AITM PHISHING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Attacker-in-the-middle (AitM) phishing involves redirecting users to malicious websites after they click on seemingly legitimate links"</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;FACEBOOK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Facebook is a social media company that may have been mentioned in the context of cyber attacks"&lt;SEP&gt;"Facebook is a social media company that may have been mentioned in the context of cyber attacks"&lt;SEP&gt;"Facebook may be relevant to context, especially regarding potential social engineering tactics."&lt;SEP&gt;"Facebook may be relevant to context, especially regarding potential social engineering tactics."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;SEKOIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A French cybersecurity company that specializes in developing security tools and provides information on new threats."</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;MAMBA 2FA&quot;">
+      <data key="d0">"TOOL"</data>
+      <data key="d1">"A phishing kit developed by Sekoia for performing AitM attacks"</data>
+      <data key="d2">chunk-48254e354e64434c83eb4a979855dbec</data>
+    </node>
+    <node id="&quot;CSA&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CSA refers to the Ivanti Cloud Service Appliance, which provides various cloud-based services for managing infrastructure."</data>
+      <data key="d2">chunk-776e4487c810e7b86fb66db8af20d941</data>
+    </node>
+    <node id="&quot;CVE-2024-9379&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"This vulnerability allows remote authenticated attackers with admin privileges to run arbitrary SQL statements."</data>
+      <data key="d2">chunk-776e4487c810e7b86fb66db8af20d941</data>
+    </node>
+    <node id="&quot;CVE-2024-9381&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"A path traversal vulnerability that allows a remote authenticated attacker with admin privileges to bypass restrictions."</data>
+      <data key="d2">chunk-776e4487c810e7b86fb66db8af20d941</data>
+    </node>
+    <node id="&quot;CLOUD SERVICE APPLIANCE (CSA)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CSA is Ivanti's software-as-a-service offering for cloud management, with various components, including the admin web console."</data>
+      <data key="d2">chunk-776e4487c810e7b86fb66db8af20d941</data>
+    </node>
+    <node id="&quot;KEVIN GALLAGHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kevin Gallagher is a cybersecurity analyst who specializes in threat detection and mitigation."</data>
+      <data key="d2">chunk-776e4487c810e7b86fb66db8af20d941</data>
+    </node>
+    <node id="&quot;SANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"SANS Institute - cyber security"</data>
+      <data key="d2">chunk-a388cbe2c476098c17e767a7c377b35c</data>
+    </node>
+    <node id="&quot;GULF&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A region in the Middle East frequently mentioned in cybersecurity reports and attacks."&lt;SEP&gt;"A region in the Middle East frequently mentioned in cybersecurity reports and attacks."&lt;SEP&gt;"The Gulf is a region targeted in the context of hybrid password attacks."&lt;SEP&gt;"The Gulf refers to the geographical region encompassing countries like Saudi Arabia, Qatar and UAE."&lt;SEP&gt;"The Gulf refers to the geographical region encompassing countries like Saudi Arabia, Qatar and UAE."&lt;SEP&gt;"The Gulf is a region targeted in the context of hybrid password attacks."</data>
+      <data key="d2">chunk-1b155a4e155b5d0e33625e3621611686&lt;SEP&gt;chunk-58aa49482cf37712daf7c9c168bed072</data>
+    </node>
+    <node id="&quot;WINDOWS KERNEL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Windows kernel is a core component of Microsoft's operating system."</data>
+      <data key="d2">chunk-58aa49482cf37712daf7c9c168bed072</data>
+    </node>
+    <node id="&quot;CONNECT WITH US&quot;">
+      <data key="d0">"ACTION/CALL-TO-ACTION"</data>
+      <data key="d1">"An invitation for readers to engage with the organization by email."</data>
+      <data key="d2">chunk-f4b4a0e4a4bb93603b818be7f9d1e04f</data>
+    </node>
+    <node id="&quot;INDUSTRY LEADERS&quot;">
+      <data key="d0">"PERSON/GROUP"</data>
+      <data key="d1">"Groups of individuals who hold influence within specific fields."</data>
+      <data key="d2">chunk-f4b4a0e4a4bb93603b818be7f9d1e04f</data>
+    </node>
+    <node id="&quot;TWITTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A platform for microblogging."</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac</data>
+    </node>
+    <node id="&quot;LINKEDIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A professional networking platform."</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac</data>
+    </node>
+    <node id="&quot;INTELLIGENCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"An entity or force that challenges established control structures and operates autonomously, often through advanced technology."</data>
+      <data key="d2">chunk-c23297e6f0c32bf14ee07a8c865d4cac</data>
+    </node>
+    <node id="&quot;EVIL TWIN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"An evil twin attack occurs when a malicious redirection redirects shoppers to a fake checkout page. "</data>
+      <data key="d2">chunk-39adb7ace0f0bbf87de215f6fd0c42da</data>
+    </node>
+    <node id="&quot;FABULOUSCLOTHINGSTORE.COM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This organization is likely a legitimate online retailer"</data>
+      <data key="d2">chunk-39adb7ace0f0bbf87de215f6fd0c42da</data>
+    </node>
+    <node id="&quot;FABULOUSCLOTHINGSTRE.COM/CHECKOUT&quot;">
+      <data key="d0">"WEBSITE"</data>
+      <data key="d1">"This website appears to be a fake checkout page designed to steal customers' financial information."</data>
+      <data key="d2">chunk-39adb7ace0f0bbf87de215f6fd0c42da</data>
+    </node>
+    <node id="&quot;REFLECTIZ&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Reflectiz is a security solution that assists in protecting businesses from cyber threats."</data>
+      <data key="d2">chunk-39adb7ace0f0bbf87de215f6fd0c42da</data>
+    </node>
+    <node id="&quot;CYBERSECURITY WEBINARS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Events and webinars focused on cybersecurity."</data>
+      <data key="d2">chunk-39adb7ace0f0bbf87de215f6fd0c42da</data>
+    </node>
+    <node id="&quot;CTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CTEM refers to Cyber Threat Enablement Model, a framework for managing cyber risks"&lt;SEP&gt;"CTEM refers to Cyber Threat Enablement Model, a framework for managing cyber risks"&lt;SEP&gt;"CTEM stands for the Center for Technology &amp; Engineering Management, which is a research organization providing insights in technology-related topics."&lt;SEP&gt;"Center for Technology &amp; Engineering Management. Provides insights into technology in the cybersecurity field. "&lt;SEP&gt;"CTEM stands for the Center for Technology &amp; Engineering Management, which is a research organization providing insights in technology-related topics."&lt;SEP&gt;"Center for Technology &amp; Engineering Management. Provides insights into technology in the cybersecurity field. "</data>
+      <data key="d2">chunk-39adb7ace0f0bbf87de215f6fd0c42da&lt;SEP&gt;chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;ONE IDENTITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"One Identity is a company that provides identity lifecycle management systems powered by AI."&lt;SEP&gt;"One Identity is a company that provides identity lifecycle management systems powered by AI."&lt;SEP&gt;"One Identity provides identity lifecycle management systems powered by AI."&lt;SEP&gt;"One Identity provides identity lifecycle management systems powered by AI."</data>
+      <data key="d2">chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3</data>
+    </node>
+    <node id="&quot;FIRST CONTACT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The potential initial contact between humanity and an unknown intelligence"</data>
+      <data key="d2">chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3</data>
+    </node>
+    <node id="&quot;VIGILANCE AI™ THREAT ENGINE&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"A security tool developed by One Identity that utilizes machine learning to identify threats."</data>
+      <data key="d2">chunk-3890eabf46bc9c0d0d3dab17c4fb7cd3</data>
+    </node>
+    <node id="&quot;CLOUD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"An on-demand computing service where resources are delivered over the internet."</data>
+      <data key="d2">chunk-f1fe667890845b2f3a6a2cbef72a27ee</data>
+    </node>
+    <node id="&quot;CYBERSECURITY RESOURCES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"This refers to information and resources related to cybersecurity."</data>
+      <data key="d2">chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;CLOUD">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cloud computing is the use of shared computer resources to provide on-demand services like servers, databases, storage, networks, software, analytics, and intelligence. It refers to infrastructure hosted on remote servers, which can be accessed over the internet."</data>
+      <data key="d2">chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;UNITED ARAB EMIRATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Location targeted by cyberattacks like Hybrid Password Attacks."</data>
+      <data key="d2">chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;EXPERT INSIGHTS/ ARTICLES&quot;">
+      <data key="d0">"RESEARCH RESOURCE"</data>
+      <data key="d1">"A compilation of in-depth knowledge about cyber threats, vulnerabilities, defense mechanisms, and more."</data>
+      <data key="d2">chunk-1b155a4e155b5d0e33625e3621611686</data>
+    </node>
+    <node id="&quot;QUALCOMM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Qualcomm is a company that releases security updates to address vulnerabilities in their products."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;DIGITAL SIGNAL PROCESSOR (DSP) SERVICE&quot;">
+      <data key="d0">"COMPONENT"</data>
+      <data key="d1">"A DSP service component affected by the vulnerability."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;CVE-2024-43047&quot;">
+      <data key="d0">"VULNERABILITY"</data>
+      <data key="d1">"A high-severity vulnerability in the DSP service that could cause memory corruption."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;GOOGLE PROJECT ZERO&quot;">
+      <data key="d0">"RESEARCHER"</data>
+      <data key="d1">"Seth Jenkins"</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;AMNESTY INTERNATIONAL SECURITY LAB&quot;">
+      <data key="d0">"RESEARCH GROUP"</data>
+      <data key="d1">"Collaborated to confirm the flaw in the wild and its potential for exploitation."&lt;SEP&gt;"Collaborated to confirm the flaw in the wild and its potential for exploitation."&lt;SEP&gt;"Confirmed the flaw in the wild and its potential for exploitation."&lt;SEP&gt;"Confirmed the flaw in the wild and its potential for exploitation."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;FASTRPC DRIVER&quot;">
+      <data key="d0">"COMPONENT"</data>
+      <data key="d1">"A component that requires an update after a critical vulnerability was discovered."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;WLAN RESOURCE MANAGER (CVE-2024-33066)">
+      <data key="d0">"COMPONENT"</data>
+      <data key="d1">"A resource manager component vulnerable to memory corruption when improper input validation occurs."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;EXPLOITS&quot;">
+      <data key="d0">"ATTACKS"</data>
+      <data key="d1">"Exploits are being used by attackers to exploit vulnerabilities and cause damage."</data>
+      <data key="d2">chunk-bd70709b4f5dd9e1da1e71b551313fcc</data>
+    </node>
+    <node id="&quot;RANSOMWARE RECOVERY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"a significant development in cyber security that affects how companies recover from ransomware attacks."</data>
+      <data key="d2">chunk-adc9e67333532a92bab5237598733e04</data>
+    </node>
+    <node id="&quot;IMPERVA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cybersecurity company involved in API security, owned by Thales."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;MARSH MCLENNAN CYBER RISK INTELLIGENCE CENTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A cyber risk intelligence center that conducted a study about API and bot attacks."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;ECONOMIC IMPACT OF API AND BOT ATTACKS REPORT&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"A research document published by Imperva and Marsh McLennan that analyzes the impact of API and bot attacks on businesses."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;APIS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Application Programming Interfaces (APIs) are crucial for modern business operations."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;BOT ATTACKS&quot;">
+      <data key="d0">"THREAT"</data>
+      <data key="d1">"Automated software programs designed to perform specific tasks are often weaponized for malicious activities like credential stuffing."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;LARGE ENTERPRISES&quot;">
+      <data key="d0">"BUSINESS ENTITY"</data>
+      <data key="d1">"Business entities that exceed annual revenue of $1 billion are significantly more vulnerable to API and bot attacks.""</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;DIGITAL BUSINESS&quot;">
+      <data key="d0">"INDUSTRY"</data>
+      <data key="d1">"Refers to businesses that heavily rely on digital technologies for all or most aspects of their operations."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;API SECURITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A concept encompassing measures taken to protect applications by securing both physical and logical aspects, like Authentication, Authorization, Data Encryption, etc."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;BOTNET&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A network of interconnected compromised computers that are controlled by a bot herder, often used in attacks."</data>
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </node>
+    <node id="&quot;THE ECONOMIC IMPACT OF API AND BOT ATTACKS REPORT&quot;">
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+      <data key="d1">"Imperva acknowledges the human element behind bot attacks through its research. "&lt;SEP&gt;"Imperva conducted a study analyzing the economic impact of API and bot attacks, publishing a report based on the research. "&lt;SEP&gt;"Imperva is involved in the analysis of Botnets and their implications on businesses.")&lt;SEP&gt;"Imperva provides recommendations for the implementation and maintenance of secure API gateways. "&lt;SEP&gt;"Imperva's report on security best practices helps organizations to mitigate risks associated with APIs and bot attacks.")&lt;SEP&gt;"Imperva's research explores how different security tools can help organizations mitigate risks")&lt;SEP&gt;"Imperva, a security company, is the source of research on bot attacks in this report. "&lt;SEP&gt;"This report discusses how DDoS attacks can be launched against APIs, impacting businesses"&lt;SEP&gt;"This report explores the growing threat of bot attacks and their impact on businesses. "&lt;SEP&gt;"This report highlights the increasing vulnerability of businesses due to API abuse. "</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;API&quot;">
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+      <data key="d1">"The report focuses on the economic impact of APIs and bot attacks, highlighting their role in business operations."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GENERATIVE AI&quot;">
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+      <data key="d1">"This report highlights how Generative AI can be weaponized to create more sophisticated bot attacks.")</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ATTACK SURFACE&quot;">
+      <data key="d2">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+      <data key="d1">"This report highlights the increasing complexities and vulnerabilities associated with API-heavy digital infrastructure. "</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;THN&quot;" target="&quot;CYBER INSIGHTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"THN provides Cyber Insights, a service focused on providing expert insights and resources for the cybersecurity community.")</data>
+      <data key="d5">"service offering, expertise"</data>
+      <data key="d6">chunk-4d8b82da45dbf44d00be20d67ecefd03</data>
+    </edge>
+    <edge source="&quot;CERTIFICATIONS&quot;" target="&quot;THE HACKER NEWS&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"The Hacker News offers Certifications as part of its cybersecurity services.")&lt;SEP&gt;"The Hacker News publishes a monthly newsletter about cybersecurity, which likely includes information on certifications")</data>
+      <data key="d5">"communication, expertise"&lt;SEP&gt;"education, expertise"</data>
+      <data key="d6">chunk-839eab8fdbc316ea2a71b5a97a42f35f&lt;SEP&gt;chunk-4d8b82da45dbf44d00be20d67ecefd03</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;CONTACT US&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Hacker News offers a means for users to reach out for information or communication. This is a key function of an organization providing news and resources to its audience.")</data>
+      <data key="d5">"communication, service provision"</data>
+      <data key="d6">chunk-df8497a604df3f639b6e8a3bd39af867</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;MASTER PRIVILEGED ACCESS MANAGEMENT: BEST PRACTICES TO IMPLEMENT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"This is a video about best practices for implementing privileged access management.")</data>
+      <data key="d5">"expertise, action"</data>
+      <data key="d6">chunk-839eab8fdbc316ea2a71b5a97a42f35f</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;MICROSOFT 365 BACKUP GAME JUST CHANGED: RANSOMWARE RECOVERY REVOLUTIONIZED&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"These events are discussed by The Hacker News, and they likely provide insight into the impact of these changes.")</data>
+      <data key="d5">"communication, analysis"</data>
+      <data key="d6">chunk-839eab8fdbc316ea2a71b5a97a42f35f</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;RANSOMWARE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Hacker News is an organization focusing on Cybersecurity news and analysis, which makes them relevant to this topic. The text specifically mentions a record-breaking ransomware attack and its impact.")</data>
+      <data key="d5">"news &amp; Analysis, cyber security"</data>
+      <data key="d6">chunk-bef17a73426c13718dabba8e82e316b1</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;HUNTRESS&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"The Hacker News frequently features articles about cybersecurity companies like Huntress and their innovations.")</data>
+      <data key="d5">4</data>
+      <data key="d6">chunk-ae22a7a5c30bd0ab03a6673a6258e9cb</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;TWITTER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The news outlet is connected to Twitter, suggesting it uses the platform for communication.")</data>
+      <data key="d5">"platform engagement, social media"</data>
+      <data key="d6">chunk-c23297e6f0c32bf14ee07a8c865d4cac</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;FACEBOOK&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"A connection between a news outlet and social media platform")</data>
+      <data key="d5">"platform engagement, social media"</data>
+      <data key="d6">chunk-c23297e6f0c32bf14ee07a8c865d4cac</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;THE MICROSOFT 365 BACKUP GAME JUST CHANGED: RANSOMWARE RECOVERY REVOLUTIONIZED&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"news organization reporting on a significant change in the backup system of Microsoft 365. This revolutionized how ransomware recovery is handled.</data>
+      <data key="d5">"media coverage, technological innovation"</data>
+      <data key="d6">chunk-adc9e67333532a92bab5237598733e04</data>
+    </edge>
+    <edge source="&quot;THE HACKER NEWS&quot;" target="&quot;RANSOMWARE RECOVERY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Hacker News reports on a significant development that changes the way ransomware recovery works."&gt;</data>
+      <data key="d5">"media coverage, technological innovation"</data>
+      <data key="d6">chunk-adc9e67333532a92bab5237598733e04</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;DEEPFAKE TECHNOLOGY&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Sam Rivera is involved in learning about the potential for Deepfake Technology in cybercrime. "&gt;</data>
+      <data key="d5">"communication, education"</data>
+      <data key="d6">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Sam Rivera is directly involved in the process of learning to communicate with the unknown intelligence.")</data>
+      <data key="d5">"communication, role specific"</data>
+      <data key="d6">chunk-c23297e6f0c32bf14ee07a8c865d4cac</data>
+    </edge>
+    <edge source="&quot;CYBERCRIME&quot;" target="&quot;AI ATTACKER&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The AI attacker contributes to cybercrime through their use of deepfakes and exploiting vulnerabilities.")</data>
+      <data key="d5">"cybersecurity", "criminal activities"</data>
+      <data key="d6">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </edge>
+    <edge source="&quot;FBI&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The FBI's mission relates to challenging the notion of absolute control, which the unknown intelligence embodies.")</data>
+      <data key="d5">"agency influence, role in context"</data>
+      <data key="d6">chunk-c23297e6f0c32bf14ee07a8c865d4cac</data>
+    </edge>
+    <edge source="&quot;HUMANITY&quot;" target="&quot;CYBERSECURITY&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The need to protect humanity from AI misuse and ensure a safe future for technology.")</data>
+      <data key="d5">"cyber security", "ethics"</data>
+      <data key="d6">chunk-36dcaae155f033d8e417ee28309f5fd5</data>
+    </edge>
+    <edge source="&quot;GLOBAL-E&quot;" target="&quot;DSPM TACTICS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Global-e utilizes DSPM tactics for risk mitigation and protection of sensitive information.</data>
+      <data key="d5">"company-specific tactic"</data>
+      <data key="d6">chunk-d1a585bec885122ce0e5a170141f4ebe</data>
+    </edge>
+    <edge source="&quot;ALL RIGHTS RESERVED&quot;" target="&quot;ORGANIZATION&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"An organization that holds rights and protects them.")&lt;| "ownership, protection"&lt;SEP&gt;"This text states a right holder, implying an organizational structure.")&lt;| "ownership, protection"</data>
+      <data key="d5">5</data>
+      <data key="d6">chunk-429daa78f46069695e1d905bc0922f37</data>
+    </edge>
+    <edge source="&quot;RANSOMWARE&quot;" target="&quot;HUNTRESS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Huntress provides managed SIEM solutions that are beneficial in mitigating ransomware attacks. This relationship is implied through their expertise in cybersecurity and response solutions.")</data>
+      <data key="d5">"defense, cyber security"</data>
+      <data key="d6">chunk-bef17a73426c13718dabba8e82e316b1</data>
+    </edge>
+    <edge source="&quot;MICROSOFT 365&quot;" target="&quot;HUNTRESS&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Microsoft 365 plays a role in the company's response to ransomware attacks, particularly in backup and recovery. This relationship is mentioned in the context of Microsoft 365's involvement in cybersecurity.")</data>
+      <data key="d5">5</data>
+      <data key="d6">chunk-ae22a7a5c30bd0ab03a6673a6258e9cb</data>
+    </edge>
+    <edge source="&quot;MICROSOFT 365&quot;" target="&quot;RANSOMWARE RECOVERY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Microsoft 365's Backup Game has been Revolutionized by Ransomware Recovery.", "This change in the backup system directly impacts how ransomware recovery is handled."&gt;</data>
+      <data key="d5">"technology, cybersecurity, impact"|&gt;7</data>
+      <data key="d6">chunk-adc9e67333532a92bab5237598733e04</data>
+    </edge>
+    <edge source="&quot;HUNTRESS&quot;" target="&quot;RANSOMWARE ATTACKS&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Huntress specializes in SIEM solutions for cybersecurity, addressing the growing threat of ransomware attacks. This relationship is clear from the context of the text about Ransomware attacks and their impact on organizations.")</data>
+      <data key="d5">6</data>
+      <data key="d6">chunk-ae22a7a5c30bd0ab03a6673a6258e9cb</data>
+    </edge>
+    <edge source="&quot;RANSOMWARE ATTACK&quot;" target="&quot;HUNTRESS CYBERSECURITY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Huntress Cybersecurity is mentioned as a company providing solutions that can mitigate ransomware attacks. This connection is implicit due to their expertise in cybersecurity.")</data>
+      <data key="d5">"defense, cyber security"</data>
+      <data key="d6">chunk-bef17a73426c13718dabba8e82e316b1</data>
+    </edge>
+    <edge source="&quot;NATION-STATE ATTACKERS&quot;" target="&quot;IVANTI CSA FLAW&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Exploiting a flaw in Ivanti CSA allows attackers to conduct network infiltration")</data>
+      <data key="d5">"cyberwarfare, attack"</data>
+      <data key="d6">chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </edge>
+    <edge source="&quot;OILRIG&quot;" target="&quot;ESPIONAGE CAMPAIGN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"OilRig is associated with a specific espionage campaign targeting the UAE and Gulf.")</data>
+      <data key="d5">"malicious operation, target-focused"</data>
+      <data key="d6">chunk-3ec174060a96ac61832e97b330ffd695</data>
+    </edge>
+    <edge source="&quot;IMPERVA&quot;" target="&quot;THE ECONOMIC IMPACT OF API AND BOT ATTACKS REPORT&quot;">
+      <data key="d3">101.0</data>
+      <data key="d4">"Imperva acknowledges the human element behind bot attacks through its research. "&lt;SEP&gt;"Imperva conducted a study analyzing the economic impact of API and bot attacks, publishing a report based on the research. "&lt;SEP&gt;"Imperva is involved in the analysis of Botnets and their implications on businesses.")&lt;SEP&gt;"Imperva provides recommendations for the implementation and maintenance of secure API gateways. "&lt;SEP&gt;"Imperva's report on security best practices helps organizations to mitigate risks associated with APIs and bot attacks.")&lt;SEP&gt;"Imperva's research explores how different security tools can help organizations mitigate risks")&lt;SEP&gt;"Imperva, a security company, is the source of research on bot attacks in this report. "&lt;SEP&gt;"This report discusses how DDoS attacks can be launched against APIs, impacting businesses"&lt;SEP&gt;"This report explores the growing threat of bot attacks and their impact on businesses. "&lt;SEP&gt;"This report highlights the increasing vulnerability of businesses due to API abuse. "</data>
+      <data key="d5">"recommendations, API security"&lt;SEP&gt;"research&lt;SEP&gt;"research, consequences"&lt;SEP&gt;"research, human element"&lt;SEP&gt;"research, implications"&lt;SEP&gt;"research, report"&lt;SEP&gt;"security, mitigation"&lt;SEP&gt;"threats and defenses"</data>
+      <data key="d6">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </edge>
+    <edge source="&quot;APIS&quot;" target="&quot;THE ECONOMIC IMPACT OF API AND BOT ATTACKS REPORT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The report focuses on the economic impact of APIs and bot attacks, highlighting their role in business operations."</data>
+      <data key="d5">"influence on business strategy"</data>
+      <data key="d6">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </edge>
+    <edge source="&quot;BOT ATTACKS&quot;" target="&quot;GENERATIVE AI&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"This report highlights how Generative AI can be weaponized to create more sophisticated bot attacks.")</data>
+      <data key="d5">"threat evolution"</data>
+      <data key="d6">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </edge>
+    <edge source="&quot;LARGE ENTERPRISES&quot;" target="&quot;THE ECONOMIC IMPACT OF API AND BOT ATTACKS REPORT&quot;">
+      <data key="d3">42.0</data>
+      <data key="d4">"This report highlights how large enterprises may be exposed to Shadow API attacks due to their complex digital infrastructure.")&lt;SEP&gt;"This report highlights the vulnerability of large enterprises due to their complex digital infrastructure. "</data>
+      <data key="d5">"impact on business practices"&lt;SEP&gt;"threat model</data>
+      <data key="d6">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </edge>
+    <edge source="&quot;API SECURITY&quot;" target="&quot;ATTACK SURFACE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"This report highlights the increasing complexities and vulnerabilities associated with API-heavy digital infrastructure. "</data>
+      <data key="d5">"vulnerability, mitigation"</data>
+      <data key="d6">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </edge>
+    <edge source="&quot;THE ECONOMIC IMPACT OF API AND BOT ATTACKS REPORT&quot;" target="&quot;API&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The report focuses on the economic impact of APIs and bot attacks, highlighting their role in business operations."</data>
+      <data key="d5">"influence on business strategy"</data>
+      <data key="d6">chunk-5073a56f6acdcea37651ed2bb9133dc2</data>
+    </edge>
+  </graph>
+</graphml>
