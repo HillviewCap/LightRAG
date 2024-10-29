@@ -2,7 +2,7 @@ accelerate
 aioboto3
 aiohttp
 graspologic
-hnswlib
+#hnswlib
 nano-vectordb
 networkx
 ollama

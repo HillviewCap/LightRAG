@@ -8,3 +8,4 @@ dist/
 .aider*
 
 .venv/
+.env
