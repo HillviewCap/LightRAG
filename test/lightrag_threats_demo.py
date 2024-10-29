@@ -38,27 +38,46 @@ cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
 tables = cursor.fetchall()
 print("Available tables in the database:", tables)
 
+# Get table structure
+cursor.execute("PRAGMA table_info(parsed_content)")
+columns = cursor.fetchall()
+print("Table structure:", columns)
+
 # Read and insert all content
 cursor.execute('SELECT content FROM parsed_content')
 contents = cursor.fetchall()
+print(f"Found {len(contents)} rows in the database")
+
+processed_count = 0
 for content in contents:
-    if content[0]:  # Check if content is not None/empty
-        rag.insert(content[0])
-        logging.info("Processed and inserted content chunk")
+    if content and isinstance(content[0], str) and content[0].strip():
+        try:
+            rag.insert(content[0])
+            processed_count += 1
+            logging.info(f"Successfully processed content chunk {processed_count}: {content[0][:50]}...")
+        except Exception as e:
+            logging.error(f"Error processing content: {str(e)}")
+    else:
+        logging.warning("Skipped empty or invalid content")
 
 conn.close()
 
-# Example queries using different search modes
-test_query = "What are the main security threats discussed in these documents?"
+print(f"\nSuccessfully processed {processed_count} content chunks")
 
-print("\nNaive Search Results:")
-print(rag.query(test_query, param=QueryParam(mode="naive")))
+# Only proceed with queries if we have embedded content
+if processed_count > 0:
+    test_query = "What are the main security threats discussed in these documents?"
+    
+    print("\nNaive Search Results:")
+    print(rag.query(test_query, param=QueryParam(mode="naive")))
 
-print("\nLocal Search Results:")
-print(rag.query(test_query, param=QueryParam(mode="local")))
+    print("\nLocal Search Results:")
+    print(rag.query(test_query, param=QueryParam(mode="local")))
 
-print("\nGlobal Search Results:")
-print(rag.query(test_query, param=QueryParam(mode="global")))
+    print("\nGlobal Search Results:")
+    print(rag.query(test_query, param=QueryParam(mode="global")))
 
-print("\nHybrid Search Results:")
-print(rag.query(test_query, param=QueryParam(mode="hybrid")))
+    print("\nHybrid Search Results:")
+    print(rag.query(test_query, param=QueryParam(mode="hybrid")))
+else:
+    print("\nNo content was successfully embedded. Please check your database content.")
